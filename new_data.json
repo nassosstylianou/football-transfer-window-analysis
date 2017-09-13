@@ -1,0 +1,688 @@
+[
+ {
+   "club": "Alavés",
+   "net_spend": 4680805,
+   "league": "La Liga",
+   "players_in": 16,
+   "players_out": 13
+ },
+ {
+   "club": "Amiens",
+   "net_spend": -15480000,
+   "league": "Ligue 1",
+   "players_in": 14,
+   "players_out": 7
+ },
+ {
+   "club": "Angers",
+   "net_spend": -2590000,
+   "league": "Ligue 1",
+   "players_in": 10,
+   "players_out": 16
+ },
+ {
+   "club": "Arsenal",
+   "net_spend": -21000000,
+   "league": "Premier League",
+   "players_in": 2,
+   "players_out": 22
+ },
+ {
+   "club": "Atalanta",
+   "net_spend": 6008590,
+   "league": "Serie A",
+   "players_in": 17,
+   "players_out": 25
+ },
+ {
+   "club": "Atlético Madrid",
+   "net_spend": -8565000,
+   "league": "La Liga",
+   "players_in": 6,
+   "players_out": 15
+ },
+ {
+   "club": "Augsburg",
+   "net_spend": -60000,
+   "league": "Bundesliga",
+   "players_in": 6,
+   "players_out": 7
+ },
+ {
+   "club": "Barcelona",
+   "net_spend": -35969335,
+   "league": "La Liga",
+   "players_in": 8,
+   "players_out": 12
+ },
+ {
+   "club": "Bayer Leverkusen",
+   "net_spend": -42010000,
+   "league": "Bundesliga",
+   "players_in": 4,
+   "players_out": 10
+ },
+ {
+   "club": "Bayern Munich",
+   "net_spend": 66136000,
+   "league": "Bundesliga",
+   "players_in": 8,
+   "players_out": 11
+ },
+ {
+   "club": "Benevento",
+   "net_spend": 12050000,
+   "league": "Serie A",
+   "players_in": 17,
+   "players_out": 11
+ },
+ {
+   "club": "Bologna",
+   "net_spend": 8804735,
+   "league": "Serie A",
+   "players_in": 12,
+   "players_out": 10
+ },
+ {
+   "club": "Bordeaux",
+   "net_spend": 2513325,
+   "league": "Ligue 1",
+   "players_in": 11,
+   "players_out": 16
+ },
+ {
+   "club": "Borussia Dortmund",
+   "net_spend": -76350000,
+   "league": "Bundesliga",
+   "players_in": 9,
+   "players_out": 9
+ },
+ {
+   "club": "Borussia Mönchengladbach",
+   "net_spend": 8070000,
+   "league": "Bundesliga",
+   "players_in": 6,
+   "players_out": 8
+ },
+ {
+   "club": "Bournemouth",
+   "net_spend": 30000000,
+   "league": "Premier League",
+   "players_in": 4,
+   "players_out": 16
+ },
+ {
+   "club": "Brighton",
+   "net_spend": 43110000,
+   "league": "Premier League",
+   "players_in": 13,
+   "players_out": 13
+ },
+ {
+   "club": "Burnley",
+   "net_spend": -11500000,
+   "league": "Premier League",
+   "players_in": 7,
+   "players_out": 21
+ },
+ {
+   "club": "Caen",
+   "net_spend": 6320355,
+   "league": "Ligue 1",
+   "players_in": 10,
+   "players_out": 14
+ },
+ {
+   "club": "Cagliari",
+   "net_spend": 993793,
+   "league": "Serie A",
+   "players_in": 9,
+   "players_out": 17
+ },
+ {
+   "club": "Celta Vigo",
+   "net_spend": 7180000,
+   "league": "La Liga",
+   "players_in": 4,
+   "players_out": 9
+ },
+ {
+   "club": "Chelsea",
+   "net_spend": 80272280,
+   "league": "Premier League",
+   "players_in": 11,
+   "players_out": 41
+ },
+ {
+   "club": "Chievo",
+   "net_spend": -12192000,
+   "league": "Serie A",
+   "players_in": 9,
+   "players_out": 16
+ },
+ {
+   "club": "Crotone",
+   "net_spend": 750000,
+   "league": "Serie A",
+   "players_in": 10,
+   "players_out": 8
+ },
+ {
+   "club": "Crystal Palace",
+   "net_spend": 32150000,
+   "league": "Premier League",
+   "players_in": 4,
+   "players_out": 6
+ },
+ {
+   "club": "Deportivo La Coruña",
+   "net_spend": 2779411,
+   "league": "La Liga",
+   "players_in": 8,
+   "players_out": 8
+ },
+ {
+   "club": "Dijon",
+   "net_spend": -4280000,
+   "league": "Ligue 1",
+   "players_in": 8,
+   "players_out": 12
+ },
+ {
+   "club": "Eibar",
+   "net_spend": -3570000,
+   "league": "La Liga",
+   "players_in": 8,
+   "players_out": 7
+ },
+ {
+   "club": "Eintracht Frankfurt",
+   "net_spend": 16110000,
+   "league": "Bundesliga",
+   "players_in": 13,
+   "players_out": 7
+ },
+ {
+   "club": "Espanyol",
+   "net_spend": 1825000,
+   "league": "La Liga",
+   "players_in": 10,
+   "players_out": 8
+ },
+ {
+   "club": "Everton",
+   "net_spend": 45970000,
+   "league": "Premier League",
+   "players_in": 14,
+   "players_out": 19
+ },
+ {
+   "club": "FC Cologne",
+   "net_spend": 25520000,
+   "league": "Bundesliga",
+   "players_in": 5,
+   "players_out": 3
+ },
+ {
+   "club": "Fiorentina",
+   "net_spend": -14134622,
+   "league": "Serie A",
+   "players_in": 21,
+   "players_out": 21
+ },
+ {
+   "club": "Freiburg",
+   "net_spend": -7910000,
+   "league": "Bundesliga",
+   "players_in": 14,
+   "players_out": 10
+ },
+ {
+   "club": "Genoa",
+   "net_spend": -8238525,
+   "league": "Serie A",
+   "players_in": 16,
+   "players_out": 17
+ },
+ {
+   "club": "Getafe",
+   "net_spend": 6954350,
+   "league": "La Liga",
+   "players_in": 17,
+   "players_out": 5
+ },
+ {
+   "club": "Girona",
+   "net_spend": 1500000,
+   "league": "La Liga",
+   "players_in": 16,
+   "players_out": 7
+ },
+ {
+   "club": "Granada",
+   "net_spend": 0,
+   "league": "La Liga",
+   "players_in": 8,
+   "players_out": 6
+ },
+ {
+   "club": "Guingamp",
+   "net_spend": -340000,
+   "league": "Ligue 1",
+   "players_in": 9,
+   "players_out": 12
+ },
+ {
+   "club": "Hamburg",
+   "net_spend": 12300000,
+   "league": "Bundesliga",
+   "players_in": 5,
+   "players_out": 10
+ },
+ {
+   "club": "Hannover 96",
+   "net_spend": 11148000,
+   "league": "Bundesliga",
+   "players_in": 8,
+   "players_out": 4
+ },
+ {
+   "club": "Hertha Berlin",
+   "net_spend": -6050000,
+   "league": "Bundesliga",
+   "players_in": 6,
+   "players_out": 8
+ },
+ {
+   "club": "Hoffenheim",
+   "net_spend": -23019411,
+   "league": "Bundesliga",
+   "players_in": 11,
+   "players_out": 12
+ },
+ {
+   "club": "Huddersfield Town",
+   "net_spend": 33350000,
+   "league": "Premier League",
+   "players_in": 12,
+   "players_out": 11
+ },
+ {
+   "club": "Inter",
+   "net_spend": 36341612,
+   "league": "Serie A",
+   "players_in": 13,
+   "players_out": 34
+ },
+ {
+   "club": "Juventus",
+   "net_spend": 12536017,
+   "league": "Serie A",
+   "players_in": 12,
+   "players_out": 32
+ },
+ {
+   "club": "Las Palmas",
+   "net_spend": -11000000,
+   "league": "La Liga",
+   "players_in": 9,
+   "players_out": 10
+ },
+ {
+   "club": "Lazio",
+   "net_spend": -21360000,
+   "league": "Serie A",
+   "players_in": 8,
+   "players_out": 9
+ },
+ {
+   "club": "Leganés",
+   "net_spend": 4380000,
+   "league": "La Liga",
+   "players_in": 13,
+   "players_out": 3
+ },
+ {
+   "club": "Leicester City",
+   "net_spend": 13800000,
+   "league": "Premier League",
+   "players_in": 7,
+   "players_out": 8
+ },
+ {
+   "club": "Levante",
+   "net_spend": -3979440,
+   "league": "La Liga",
+   "players_in": 15,
+   "players_out": 6
+ },
+ {
+   "club": "Lille",
+   "net_spend": 43373600,
+   "league": "Ligue 1",
+   "players_in": 12,
+   "players_out": 18
+ },
+ {
+   "club": "Liverpool",
+   "net_spend": 41500000,
+   "league": "Premier League",
+   "players_in": 7,
+   "players_out": 19
+ },
+ {
+   "club": "Lyon",
+   "net_spend": -50532004,
+   "league": "Ligue 1",
+   "players_in": 9,
+   "players_out": 16
+ },
+ {
+   "club": "Mainz 05",
+   "net_spend": -9520250,
+   "league": "Bundesliga",
+   "players_in": 5,
+   "players_out": 11
+ },
+ {
+   "club": "Málaga",
+   "net_spend": -17769877,
+   "league": "La Liga",
+   "players_in": 10,
+   "players_out": 12
+ },
+ {
+   "club": "Manchester City",
+   "net_spend": 128216888,
+   "league": "Premier League",
+   "players_in": 11,
+   "players_out": 37
+ },
+ {
+   "club": "Manchester United",
+   "net_spend": 136200000,
+   "league": "Premier League",
+   "players_in": 5,
+   "players_out": 12
+ },
+ {
+   "club": "Marseille",
+   "net_spend": 47530000,
+   "league": "Ligue 1",
+   "players_in": 9,
+   "players_out": 18
+ },
+ {
+   "club": "Metz",
+   "net_spend": -17548722,
+   "league": "Ligue 1",
+   "players_in": 10,
+   "players_out": 12
+ },
+ {
+   "club": "Milan",
+   "net_spend": 131871988,
+   "league": "Serie A",
+   "players_in": 13,
+   "players_out": 20
+ },
+ {
+   "club": "Monaco",
+   "net_spend": -100750000,
+   "league": "Ligue 1",
+   "players_in": 13,
+   "players_out": 21
+ },
+ {
+   "club": "Montpellier",
+   "net_spend": -10750000,
+   "league": "Ligue 1",
+   "players_in": 9,
+   "players_out": 6
+ },
+ {
+   "club": "Nantes",
+   "net_spend": -190375,
+   "league": "Ligue 1",
+   "players_in": 8,
+   "players_out": 7
+ },
+ {
+   "club": "Napoli",
+   "net_spend": 49082540,
+   "league": "Serie A",
+   "players_in": 7,
+   "players_out": 11
+ },
+ {
+   "club": "Newcastle United",
+   "net_spend": 20171000,
+   "league": "Premier League",
+   "players_in": 8,
+   "players_out": 21
+ },
+ {
+   "club": "Nice",
+   "net_spend": -9650000,
+   "league": "Ligue 1",
+   "players_in": 7,
+   "players_out": 12
+ },
+ {
+   "club": "Paris Saint-Germain",
+   "net_spend": 155100000,
+   "league": "Ligue 1",
+   "players_in": 5,
+   "players_out": 18
+ },
+ {
+   "club": "RB Leipzig",
+   "net_spend": 29190000,
+   "league": "Bundesliga",
+   "players_in": 11,
+   "players_out": 12
+ },
+ {
+   "club": "Real Betis",
+   "net_spend": -1543927,
+   "league": "La Liga",
+   "players_in": 10,
+   "players_out": 16
+ },
+ {
+   "club": "Real Madrid",
+   "net_spend": -24366095,
+   "league": "La Liga",
+   "players_in": 6,
+   "players_out": 15
+ },
+ {
+   "club": "Real Sociedad",
+   "net_spend": 2750000,
+   "league": "La Liga",
+   "players_in": 3,
+   "players_out": 9
+ },
+ {
+   "club": "Rennes",
+   "net_spend": 9965082,
+   "league": "Ligue 1",
+   "players_in": 9,
+   "players_out": 13
+ },
+ {
+   "club": "Roma",
+   "net_spend": -17635485,
+   "league": "Serie A",
+   "players_in": 14,
+   "players_out": 17
+ },
+ {
+   "club": "Saint-Etienne",
+   "net_spend": 1029735,
+   "league": "Ligue 1",
+   "players_in": 8,
+   "players_out": 13
+ },
+ {
+   "club": "Sampdoria",
+   "net_spend": -20622325,
+   "league": "Serie A",
+   "players_in": 10,
+   "players_out": 11
+ },
+ {
+   "club": "Sassuolo",
+   "net_spend": 3362140,
+   "league": "Serie A",
+   "players_in": 7,
+   "players_out": 13
+ },
+ {
+   "club": "Schalke 04",
+   "net_spend": 40380000,
+   "league": "Bundesliga",
+   "players_in": 6,
+   "players_out": 19
+ },
+ {
+   "club": "Sevilla",
+   "net_spend": -11886163,
+   "league": "La Liga",
+   "players_in": 9,
+   "players_out": 13
+ },
+ {
+   "club": "Southampton",
+   "net_spend": 23000000,
+   "league": "Premier League",
+   "players_in": 4,
+   "players_out": 13
+ },
+ {
+   "club": "SPAL",
+   "net_spend": 1280000,
+   "league": "Serie A",
+   "players_in": 16,
+   "players_out": 3
+ },
+ {
+   "club": "Stoke City",
+   "net_spend": -6300000,
+   "league": "Premier League",
+   "players_in": 10,
+   "players_out": 18
+ },
+ {
+   "club": "Strasbourg",
+   "net_spend": 2227262,
+   "league": "Ligue 1",
+   "players_in": 11,
+   "players_out": 8
+ },
+ {
+   "club": "Stuttgart",
+   "net_spend": 13460000,
+   "league": "Bundesliga",
+   "players_in": 13,
+   "players_out": 11
+ },
+ {
+   "club": "Swansea City",
+   "net_spend": -28000000,
+   "league": "Premier League",
+   "players_in": 9,
+   "players_out": 25
+ },
+ {
+   "club": "Torino",
+   "net_spend": -62538395,
+   "league": "Serie A",
+   "players_in": 11,
+   "players_out": 18
+ },
+ {
+   "club": "Tottenham Hotspur",
+   "net_spend": -5690000,
+   "league": "Premier League",
+   "players_in": 5,
+   "players_out": 12
+ },
+ {
+   "club": "Toulouse",
+   "net_spend": -7525000,
+   "league": "Ligue 1",
+   "players_in": 7,
+   "players_out": 11
+ },
+ {
+   "club": "Troyes",
+   "net_spend": 0,
+   "league": "Ligue 1",
+   "players_in": 7,
+   "players_out": 3
+ },
+ {
+   "club": "Udinese",
+   "net_spend": 7056800,
+   "league": "Serie A",
+   "players_in": 10,
+   "players_out": 15
+ },
+ {
+   "club": "Valencia",
+   "net_spend": 11005898,
+   "league": "La Liga",
+   "players_in": 9,
+   "players_out": 21
+ },
+ {
+   "club": "Verona",
+   "net_spend": -1674735,
+   "league": "Serie A",
+   "players_in": 16,
+   "players_out": 13
+ },
+ {
+   "club": "Villarreal",
+   "net_spend": 8921017,
+   "league": "La Liga",
+   "players_in": 5,
+   "players_out": 11
+ },
+ {
+   "club": "Watford",
+   "net_spend": 36251000,
+   "league": "Premier League",
+   "players_in": 14,
+   "players_out": 13
+ },
+ {
+   "club": "Werder Bremen",
+   "net_spend": 60000,
+   "league": "Bundesliga",
+   "players_in": 5,
+   "players_out": 14
+ },
+ {
+   "club": "West Bromwich Albion",
+   "net_spend": 35000000,
+   "league": "Premier League",
+   "players_in": 9,
+   "players_out": 13
+ },
+ {
+   "club": "West Ham United",
+   "net_spend": 16490000,
+   "league": "Premier League",
+   "players_in": 5,
+   "players_out": 19
+ },
+ {
+   "club": "Wolfsburg",
+   "net_spend": 18800000,
+   "league": "Bundesliga",
+   "players_in": 10,
+   "players_out": 14
+ }
+]
