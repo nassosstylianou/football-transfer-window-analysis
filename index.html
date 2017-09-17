@@ -17,19 +17,29 @@
   <!-- FONT
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   
-  <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Libre+Franklin:400,600" rel="stylesheet">
   <!-- CSS
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/skeleton.css">
   <link rel="stylesheet" href="css/style.css"> 
   <script src="js/jquery-3.2.1.min.js"></script>
   <script src="js/main.js"></script>
 
 </head>
   <body>
-      <select id="list" onchange="results(this.value)">
-        <option value="" disabled selected>Select team</option>
-      </select>
-      <div id="netSpendDiv"></div>
-      <div id="numberOfPlayers"></div>
+      <div class="container">
+        <div class="row">
+          <div class="twelve columns">
+            <label for="exampleRecipientInput"><h5>Choose a club from Europe's top five leagues</h5></label>
+            <select id="list" onchange="results(this.value)">
+              <option value="" disabled selected>Select team</option>
+            </select>
+            <div id="netSpendDiv"></div>
+            <div id="numberOfPlayers" class="spacer"></div>
+          </div>
+        </div>
+    </div>
   </body>
 </html>
