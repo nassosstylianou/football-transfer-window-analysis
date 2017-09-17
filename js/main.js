@@ -16,9 +16,9 @@ function results(selectedTeam) {
         if (value.net_spend == 0) {
           netSpendReply = "<strong>" + value.club +  "</strong> did not spend any money in this summer's transfer window."
         } else if (value.net_spend > 0 && value.net_spend < 1000000) {
-            netSpendReply = "<strong>" + value.club +  "</strong> spent £" + Math.round(value.net_spend) + " in this summer's transfer window."
+            netSpendReply = "<strong>" + value.club +  "</strong> spent <strong>£" + Math.round(value.net_spend/1000000) + " million </strong>in this summer's transfer window."
         } else if (value.net_spend >= 1000000) {
-            netSpendReply = "<strong>" + value.club +  "</strong> spent £" + Math.round(value.net_spend / 1000000) + " million in this summer's transfer window."
+            netSpendReply = "<strong>" + value.club +  "</strong> spent <strong>£" + Math.round(value.net_spend / 1000000) + " million</strong> in this summer's transfer window."
           } else {
             netSpendReply = "<strong>" + value.club +  "</strong> made a profit of <strong>£" + Math.round(Math.abs(value.net_spend / 1000000)) + " million</strong> in this summer's transfer window."
           }
