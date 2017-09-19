@@ -1,0 +1,4997 @@
+[
+ {
+   "player_name": "Juan Cuadrado",
+   "club": "Juventus",
+   "price": "17330000"
+ },
+ {
+   "player_name": "Medhi Benatia",
+   "club": "Juventus",
+   "price": "14900000"
+ },
+ {
+   "player_name": "Bruno Gaspar",
+   "club": "Fiorentina",
+   "price": "3530000"
+ },
+ {
+   "player_name": "Etrit Berisha",
+   "club": "Atalanta",
+   "price": "4410000"
+ },
+ {
+   "player_name": "Andreas Cornelius",
+   "club": "Atalanta",
+   "price": "3100000"
+ },
+ {
+   "player_name": "Robin Gosens",
+   "club": "Atalanta",
+   "price": "660000"
+ },
+ {
+   "player_name": "Franck Kessié",
+   "club": "Milan",
+   "price": "NA"
+ },
+ {
+   "player_name": "Vitor Hugo",
+   "club": "Fiorentina",
+   "price": "7050000"
+ },
+ {
+   "player_name": "Nikola Milenkovic",
+   "club": "Fiorentina",
+   "price": "4500000"
+ },
+ {
+   "player_name": "Daniele Padelli",
+   "club": "Inter",
+   "price": "NA"
+ },
+ {
+   "player_name": "André Silva",
+   "club": "Milan",
+   "price": "33500000"
+ },
+ {
+   "player_name": "Mateo Musacchio",
+   "club": "Milan",
+   "price": "1.50E+07"
+ },
+ {
+   "player_name": "Ricardo Rodriguez",
+   "club": "Milan",
+   "price": "13220000"
+ },
+ {
+   "player_name": "Héctor Moreno",
+   "club": "Roma",
+   "price": "5300000"
+ },
+ {
+   "player_name": "Valerio Verre",
+   "club": "Sampdoria",
+   "price": "3100000"
+ },
+ {
+   "player_name": "Jacopo Murano",
+   "club": "SPAL",
+   "price": "NA"
+ },
+ {
+   "player_name": "Vanja Milinkovic-Savic",
+   "club": "Torino",
+   "price": "2200000"
+ },
+ {
+   "player_name": "Lyanco",
+   "club": "Torino",
+   "price": "5300000"
+ },
+ {
+   "player_name": "Aly Malle",
+   "club": "Udinese",
+   "price": "NA"
+ },
+ {
+   "player_name": "Nicolas Haas",
+   "club": "Atalanta",
+   "price": "NA"
+ },
+ {
+   "player_name": "João Schmidt",
+   "club": "Atalanta",
+   "price": "NA"
+ },
+ {
+   "player_name": "Giancarlo González",
+   "club": "Bologna",
+   "price": "1750000"
+ },
+ {
+   "player_name": "Sebastien De Maio",
+   "club": "Bologna",
+   "price": "1750000"
+ },
+ {
+   "player_name": "Salvatore Sirigu",
+   "club": "Torino",
+   "price": "NA"
+ },
+ {
+   "player_name": "Rick Karsdorp",
+   "club": "Roma",
+   "price": "12300000"
+ },
+ {
+   "player_name": "Rodrigo Ely",
+   "club": "Milan",
+   "price": "NA"
+ },
+ {
+   "player_name": "Gravillon",
+   "club": "Benevento",
+   "price": "1300000"
+ },
+ {
+   "player_name": "Giuseppe Pezzella",
+   "club": "Udinese",
+   "price": "3950000"
+ },
+ {
+   "player_name": "Fabio Borini",
+   "club": "Milan",
+   "price": "NA"
+ },
+ {
+   "player_name": "Lorenzo Pellegrini",
+   "club": "Roma",
+   "price": "8768600"
+ },
+ {
+   "player_name": "Senna Miangue",
+   "club": "Cagliari",
+   "price": "3034838"
+ },
+ {
+   "player_name": "Adam Marusic",
+   "club": "Lazio",
+   "price": "5500000"
+ },
+ {
+   "player_name": "Nicola Murru",
+   "club": "Sampdoria",
+   "price": "5950000"
+ },
+ {
+   "player_name": "Luca Cigarini",
+   "club": "Cagliari",
+   "price": "NA"
+ },
+ {
+   "player_name": "Luca Garritano",
+   "club": "Chievo",
+   "price": "850000"
+ },
+ {
+   "player_name": "Alejandro Rodríguez",
+   "club": "Chievo",
+   "price": "425000"
+ },
+ {
+   "player_name": "Michele Rigione",
+   "club": "Chievo",
+   "price": "170000"
+ },
+ {
+   "player_name": "Fabio Eguelfi",
+   "club": "Atalanta",
+   "price": "1280000"
+ },
+ {
+   "player_name": "Luca Vido",
+   "club": "Atalanta",
+   "price": "NA"
+ },
+ {
+   "player_name": "José Luis Palomino",
+   "club": "Atalanta",
+   "price": "3400000"
+ },
+ {
+   "player_name": "Andrea Poli",
+   "club": "Bologna",
+   "price": "NA"
+ },
+ {
+   "player_name": "Massimo Coda",
+   "club": "Benevento",
+   "price": "1450000"
+ },
+ {
+   "player_name": "William Vainqueur",
+   "club": "Roma",
+   "price": "NA"
+ },
+ {
+   "player_name": "Anastasios Donis",
+   "club": "Juventus",
+   "price": "NA"
+ },
+ {
+   "player_name": "Ervin Zukanovic",
+   "club": "Roma",
+   "price": "NA"
+ },
+ {
+   "player_name": "Mauricio Pinilla",
+   "club": "Genoa",
+   "price": "NA"
+ },
+ {
+   "player_name": "Marko Rog",
+   "club": "Napoli",
+   "price": "1.10E+07"
+ },
+ {
+   "player_name": "Nikola Maksimovic",
+   "club": "Napoli",
+   "price": "22822540"
+ },
+ {
+   "player_name": "Oscar Hiljemark",
+   "club": "Genoa",
+   "price": "2194475"
+ },
+ {
+   "player_name": "Maxime Gonalons",
+   "club": "Roma",
+   "price": "4389750"
+ },
+ {
+   "player_name": "Luca Rizzo",
+   "club": "SPAL",
+   "price": "NA"
+ },
+ {
+   "player_name": "Marios Oikonomou",
+   "club": "SPAL",
+   "price": "NA"
+ },
+ {
+   "player_name": "Federico Mattiello",
+   "club": "SPAL",
+   "price": "NA"
+ },
+ {
+   "player_name": "Felipe Dal Bello",
+   "club": "SPAL",
+   "price": "530000"
+ },
+ {
+   "player_name": "Hakan Calhanoglu",
+   "club": "Milan",
+   "price": "2.20E+07"
+ },
+ {
+   "player_name": "Adam Ounas",
+   "club": "Napoli",
+   "price": "8800000"
+ },
+ {
+   "player_name": "Oliver Kragl",
+   "club": "Crotone",
+   "price": "350000"
+ },
+ {
+   "player_name": "Josip Ilicic",
+   "club": "Atalanta",
+   "price": "4824590"
+ },
+ {
+   "player_name": "Gianluca Gaudino",
+   "club": "Chievo",
+   "price": "44000"
+ },
+ {
+   "player_name": "Ante Budimir",
+   "club": "Crotone",
+   "price": "NA"
+ },
+ {
+   "player_name": "Ervin Zukanovic",
+   "club": "Genoa",
+   "price": "NA"
+ },
+ {
+   "player_name": "Daniele Verde",
+   "club": "Verona",
+   "price": "NA"
+ },
+ {
+   "player_name": "Marco Pompetti",
+   "club": "Inter",
+   "price": "NA"
+ },
+ {
+   "player_name": "Lorenzo Peschetola",
+   "club": "Inter",
+   "price": "NA"
+ },
+ {
+   "player_name": "Milan Skriniar",
+   "club": "Inter",
+   "price": "29100000"
+ },
+ {
+   "player_name": "Gianluca Caprari",
+   "club": "Sampdoria",
+   "price": "11500000"
+ },
+ {
+   "player_name": "Andrea Conti",
+   "club": "Milan",
+   "price": "21100000"
+ },
+ {
+   "player_name": "Timothy Castagne",
+   "club": "Atalanta",
+   "price": "3500000"
+ },
+ {
+   "player_name": "Vid Belec",
+   "club": "Benevento",
+   "price": "1550000"
+ },
+ {
+   "player_name": "Gaetano Letizia",
+   "club": "Benevento",
+   "price": "1550000"
+ },
+ {
+   "player_name": "George Puscas",
+   "club": "Benevento",
+   "price": "NA"
+ },
+ {
+   "player_name": "Marco Andreolli",
+   "club": "Cagliari",
+   "price": "NA"
+ },
+ {
+   "player_name": "Alberto Paloschi",
+   "club": "SPAL",
+   "price": "NA"
+ },
+ {
+   "player_name": "Federico Viviani",
+   "club": "SPAL",
+   "price": "NA"
+ },
+ {
+   "player_name": "Alfred Gomis",
+   "club": "SPAL",
+   "price": "NA"
+ },
+ {
+   "player_name": "Alessio Cerci",
+   "club": "Verona",
+   "price": "NA"
+ },
+ {
+   "player_name": "Antonio Cassano",
+   "club": "Verona",
+   "price": "NA"
+ },
+ {
+   "player_name": "Douglas Costa",
+   "club": "Juventus",
+   "price": "NA"
+ },
+ {
+   "player_name": "Dawid Kownacki",
+   "club": "Sampdoria",
+   "price": "4050000"
+ },
+ {
+   "player_name": "Borja Valero",
+   "club": "Inter",
+   "price": "4850000"
+ },
+ {
+   "player_name": "Manuel Pucciarelli",
+   "club": "Chievo",
+   "price": "NA"
+ },
+ {
+   "player_name": "Antonio Donnarumma",
+   "club": "Milan",
+   "price": "270000"
+ },
+ {
+   "player_name": "Bruno Zuculini",
+   "club": "Verona",
+   "price": "NA"
+ },
+ {
+   "player_name": "Andrea Costa",
+   "club": "Benevento",
+   "price": "1300000"
+ },
+ {
+   "player_name": "Riccardo Orsolini",
+   "club": "Atalanta",
+   "price": "NA"
+ },
+ {
+   "player_name": "Matteo Pessina",
+   "club": "Atalanta",
+   "price": "2640000"
+ },
+ {
+   "player_name": "Mário Rui",
+   "club": "Napoli",
+   "price": "NA"
+ },
+ {
+   "player_name": "Mamadou Coulibaly",
+   "club": "Udinese",
+   "price": "NA"
+ },
+ {
+   "player_name": "Thomas Hertaux",
+   "club": "Verona",
+   "price": "NA"
+ },
+ {
+   "player_name": "Leonardo Bonucci",
+   "club": "Milan",
+   "price": "35200000"
+ },
+ {
+   "player_name": "Lucas Leiva",
+   "club": "Lazio",
+   "price": "5.00E+06"
+ },
+ {
+   "player_name": "Leandro Cabrera",
+   "club": "Crotone",
+   "price": "NA"
+ },
+ {
+   "player_name": "Federico Fazio",
+   "club": "Roma",
+   "price": "2800000"
+ },
+ {
+   "player_name": "Berat Djimsiti",
+   "club": "Benevento",
+   "price": "NA"
+ },
+ {
+   "player_name": "Andrea Bertolacci",
+   "club": "Genoa",
+   "price": "NA"
+ },
+ {
+   "player_name": "Bruno Peres",
+   "club": "Roma",
+   "price": "10950000"
+ },
+ {
+   "player_name": "Federico Ricci",
+   "club": "Sassuolo",
+   "price": "3941555"
+ },
+ {
+   "player_name": "Cengiz Under",
+   "club": "Roma",
+   "price": "11700000"
+ },
+ {
+   "player_name": "Gianluca Di Chiara",
+   "club": "Benevento",
+   "price": "2550000"
+ },
+ {
+   "player_name": "Lucas Biglia",
+   "club": "Milan",
+   "price": "14900000"
+ },
+ {
+   "player_name": "Álex Berenguer",
+   "club": "Torino",
+   "price": "4800000"
+ },
+ {
+   "player_name": "José Relucio",
+   "club": "Inter",
+   "price": "NA"
+ },
+ {
+   "player_name": "Rafik Zekhnini",
+   "club": "Fiorentina",
+   "price": "1900000"
+ },
+ {
+   "player_name": "Stevan Jovetic",
+   "club": "Inter",
+   "price": "NA"
+ },
+ {
+   "player_name": "Gianluca Lapadula",
+   "club": "Genoa",
+   "price": "NA"
+ },
+ {
+   "player_name": "Gian Filippo Felicioli",
+   "club": "Verona",
+   "price": "NA"
+ },
+ {
+   "player_name": "Marco D'Alessandro",
+   "club": "Benevento",
+   "price": "NA"
+ },
+ {
+   "player_name": "Wojciech Szczesny",
+   "club": "Juventus",
+   "price": "1.00E+07"
+ },
+ {
+   "player_name": "Danilo Cataldi",
+   "club": "Benevento",
+   "price": "NA"
+ },
+ {
+   "player_name": "Mattia De Sciglio",
+   "club": "Juventus",
+   "price": "10600000"
+ },
+ {
+   "player_name": "Gregoire Defrel",
+   "club": "Roma",
+   "price": "NA"
+ },
+ {
+   "player_name": "Federico Bernardeschi",
+   "club": "Juventus",
+   "price": "35700000"
+ },
+ {
+   "player_name": "Aleksandar Kolarov",
+   "club": "Roma",
+   "price": "4500000"
+ },
+ {
+   "player_name": "Davide Di Gennaro",
+   "club": "Lazio",
+   "price": "NA"
+ },
+ {
+   "player_name": "Sauli Vaisanen",
+   "club": "SPAL",
+   "price": "5.00E+05"
+ },
+ {
+   "player_name": "Marcello Trotta",
+   "club": "Crotone",
+   "price": "NA"
+ },
+ {
+   "player_name": "Francesco Orlando",
+   "club": "Lazio",
+   "price": "NA"
+ },
+ {
+   "player_name": "Marcel Buchel",
+   "club": "Verona",
+   "price": "NA"
+ },
+ {
+   "player_name": "Francesco Cassata",
+   "club": "Sassuolo",
+   "price": "4464905"
+ },
+ {
+   "player_name": "Jordan Veretout",
+   "club": "Fiorentina",
+   "price": "6257895"
+ },
+ {
+   "player_name": "Pa Konate",
+   "club": "SPAL",
+   "price": "250000"
+ },
+ {
+   "player_name": "Alberto Grassi",
+   "club": "SPAL",
+   "price": "NA"
+ },
+ {
+   "player_name": "Filippo Romagna",
+   "club": "Cagliari",
+   "price": "6799560"
+ },
+ {
+   "player_name": "Dario del Fabro",
+   "club": "Juventus",
+   "price": "4026055"
+ },
+ {
+   "player_name": "Bram Nuytinck",
+   "club": "Udinese",
+   "price": "2700000"
+ },
+ {
+   "player_name": "Edoardo Goldaniga",
+   "club": "Sassuolo",
+   "price": "4474280"
+ },
+ {
+   "player_name": "Marson",
+   "club": "Sassuolo",
+   "price": "NA"
+ },
+ {
+   "player_name": "Marco Silvestri",
+   "club": "Verona",
+   "price": "NA"
+ },
+ {
+   "player_name": "Matías Vecino",
+   "club": "Inter",
+   "price": "21510000"
+ },
+ {
+   "player_name": "Felipe Caicedo",
+   "club": "Lazio",
+   "price": "2200000"
+ },
+ {
+   "player_name": "Alex Meret",
+   "club": "SPAL",
+   "price": "NA"
+ },
+ {
+   "player_name": "Riad Bajic",
+   "club": "Udinese",
+   "price": "4496800"
+ },
+ {
+   "player_name": "Arlind Ajeti",
+   "club": "Crotone",
+   "price": "NA"
+ },
+ {
+   "player_name": "Gastón Ramírez",
+   "club": "Sampdoria",
+   "price": "9937675"
+ },
+ {
+   "player_name": "Gianmarco Ferrari",
+   "club": "Sampdoria",
+   "price": "NA"
+ },
+ {
+   "player_name": "Saphir Taïder",
+   "club": "Bologna",
+   "price": "3500000"
+ },
+ {
+   "player_name": "Raman Chibsah",
+   "club": "Benevento",
+   "price": "750000"
+ },
+ {
+   "player_name": "Bright Gyamfi",
+   "club": "Benevento",
+   "price": "250000"
+ },
+ {
+   "player_name": "Filip Helander",
+   "club": "Bologna",
+   "price": "1804735"
+ },
+ {
+   "player_name": "Nicolo Cherubin",
+   "club": "Verona",
+   "price": "NA"
+ },
+ {
+   "player_name": "Paolo Farago",
+   "club": "Cagliari",
+   "price": "2075450"
+ },
+ {
+   "player_name": "Marco Fossati",
+   "club": "Verona",
+   "price": "250000"
+ },
+ {
+   "player_name": "Filippo Costa",
+   "club": "SPAL",
+   "price": "NA"
+ },
+ {
+   "player_name": "Davide Faraoni",
+   "club": "Crotone",
+   "price": "NA"
+ },
+ {
+   "player_name": "Carlos Sánchez",
+   "club": "Fiorentina",
+   "price": "2500000"
+ },
+ {
+   "player_name": "Sebastián Cristoforo",
+   "club": "Fiorentina",
+   "price": "2100000"
+ },
+ {
+   "player_name": "Maximiliano Olivera",
+   "club": "Fiorentina",
+   "price": "NA"
+ },
+ {
+   "player_name": "Andrej Galabinov",
+   "club": "Genoa",
+   "price": "NA"
+ },
+ {
+   "player_name": "Rodrigo Bentancur",
+   "club": "Juventus",
+   "price": "9023680"
+ },
+ {
+   "player_name": "Simone Palombi",
+   "club": "Lazio",
+   "price": "250000"
+ },
+ {
+   "player_name": "Juan Jesus",
+   "club": "Roma",
+   "price": "6800000"
+ },
+ {
+   "player_name": "Antonin Barak",
+   "club": "Udinese",
+   "price": "2500000"
+ },
+ {
+   "player_name": "Nicolas N'Koulou",
+   "club": "Torino",
+   "price": "NA"
+ },
+ {
+   "player_name": "Rolando Mandragora",
+   "club": "Crotone",
+   "price": "NA"
+ },
+ {
+   "player_name": "Marco Benassi",
+   "club": "Fiorentina",
+   "price": "9.00E+06"
+ },
+ {
+   "player_name": "Dalbert Henrique",
+   "club": "Inter",
+   "price": "1.80E+07"
+ },
+ {
+   "player_name": " Valentin Eysseric",
+   "club": "Fiorentina",
+   "price": "3160000"
+ },
+ {
+   "player_name": "Marten De Roon",
+   "club": "Atalanta",
+   "price": "1.30E+07"
+ },
+ {
+   "player_name": "Tomas Rincon",
+   "club": "Torino",
+   "price": "NA"
+ },
+ {
+   "player_name": "Valon Behrami",
+   "club": "Udinese",
+   "price": "NA"
+ },
+ {
+   "player_name": "Svante Ingelsson",
+   "club": "Udinese",
+   "price": "850000"
+ },
+ {
+   "player_name": "Gil Dias",
+   "club": "Fiorentina",
+   "price": "NA"
+ },
+ {
+   "player_name": "Blaise Matuidi",
+   "club": "Juventus",
+   "price": "18200000"
+ },
+ {
+   "player_name": "Giovanni Simeone",
+   "club": "Fiorentina",
+   "price": "13700000"
+ },
+ {
+   "player_name": "Francesco Migliore",
+   "club": "Genoa",
+   "price": "NA"
+ },
+ {
+   "player_name": "Ricardo Centurión",
+   "club": "Genoa",
+   "price": "3.00E+06"
+ },
+ {
+   "player_name": "Umar Sadiq",
+   "club": "Torino",
+   "price": "NA"
+ },
+ {
+   "player_name": "Germán Pezzella",
+   "club": "Fiorentina",
+   "price": "NA"
+ },
+ {
+   "player_name": "Luca Rossettini",
+   "club": "Genoa",
+   "price": "1800000"
+ },
+ {
+   "player_name": "Rodrigo Palacio",
+   "club": "Bologna",
+   "price": "NA"
+ },
+ {
+   "player_name": "Batuhan Altintas",
+   "club": "Malatyaspor",
+   "price": "NA"
+ },
+ {
+   "player_name": "Marco Borriello",
+   "club": "SPAL",
+   "price": "NA"
+ },
+ {
+   "player_name": "Bartosz Salamon",
+   "club": "SPAL",
+   "price": "NA"
+ },
+ {
+   "player_name": "Martín Cáceres",
+   "club": "Verona",
+   "price": "NA"
+ },
+ {
+   "player_name": "João Cancelo",
+   "club": "Inter",
+   "price": "3.20E+07"
+ },
+ {
+   "player_name": "Nikola Kalinić",
+   "club": "Milan",
+   "price": "NA"
+ },
+ {
+   "player_name": "Federico Bonazzoli",
+   "club": "SPAL",
+   "price": "NA"
+ },
+ {
+   "player_name": "Gregory van der Wiel",
+   "club": "Cagliari",
+   "price": "NA"
+ },
+ {
+   "player_name": "Joachim Andersen",
+   "club": "Sampdoria",
+   "price": "1850000"
+ },
+ {
+   "player_name": "Vincent Laurini",
+   "club": "Fiorentina",
+   "price": "332000"
+ },
+ {
+   "player_name": "Petar Brlek",
+   "club": "Genoa",
+   "price": "2.00E+06"
+ },
+ {
+   "player_name": "Rogerio",
+   "club": "Sassuolo",
+   "price": "NA"
+ },
+ {
+   "player_name": "Jens Stryger Larsen",
+   "club": "Udinese",
+   "price": "NA"
+ },
+ {
+   "player_name": "Ledian Memushaj",
+   "club": "Benevento",
+   "price": "NA"
+ },
+ {
+   "player_name": "Patrik Schick",
+   "club": "Roma",
+   "price": "4600000"
+ },
+ {
+   "player_name": "Lorenzo Bertini",
+   "club": "Atalanta",
+   "price": "NA"
+ },
+ {
+   "player_name": "Luca Vido",
+   "club": "Atalanta",
+   "price": "NA"
+ },
+ {
+   "player_name": "Alberto Grassi",
+   "club": "Napoli",
+   "price": "NA"
+ },
+ {
+   "player_name": "Anthony Mounier",
+   "club": "Bologna",
+   "price": "NA"
+ },
+ {
+   "player_name": "Alessandro Bastoni",
+   "club": "Inter",
+   "price": "8300000"
+ },
+ {
+   "player_name": "Benedikt Höwedes",
+   "club": "Juventus",
+   "price": "NA"
+ },
+ {
+   "player_name": "Alberto Brignoli",
+   "club": "Benevento",
+   "price": "NA"
+ },
+ {
+   "player_name": "Andrew Gravillon",
+   "club": "Benevento",
+   "price": "1350000"
+ },
+ {
+   "player_name": "Alessio Cragno",
+   "club": "Cagliari",
+   "price": "NA"
+ },
+ {
+   "player_name": "Ricardo Bagadur",
+   "club": "Fiorentina",
+   "price": "NA"
+ },
+ {
+   "player_name": "Lorenzo Venuti",
+   "club": "Fiorentina",
+   "price": "NA"
+ },
+ {
+   "player_name": "Marko Pajac",
+   "club": "Cagliari",
+   "price": "NA"
+ },
+ {
+   "player_name": "Filippo Falco",
+   "club": "Bologna",
+   "price": "NA"
+ },
+ {
+   "player_name": "Cyril Thereau",
+   "club": "Fiorentina",
+   "price": "1380000"
+ },
+ {
+   "player_name": "Alessandro Bastoni",
+   "club": "Atalanta",
+   "price": "NA"
+ },
+ {
+   "player_name": "César Falletti",
+   "club": "Bologna",
+   "price": "NA"
+ },
+ {
+   "player_name": "Felipe Avenatti",
+   "club": "Bologna",
+   "price": "NA"
+ },
+ {
+   "player_name": "Federico Viviani",
+   "club": "Verona",
+   "price": "NA"
+ },
+ {
+   "player_name": "Umar Sadiq",
+   "club": "Roma",
+   "price": "NA"
+ },
+ {
+   "player_name": "Leonardo Pavoletti",
+   "club": "Cagliari",
+   "price": "NA"
+ },
+ {
+   "player_name": "Gabriel",
+   "club": "Milan",
+   "price": "NA"
+ },
+ {
+   "player_name": "Panagiotis Tachtsidis",
+   "club": "Torino",
+   "price": "NA"
+ },
+ {
+   "player_name": "Rodrigo Guth",
+   "club": "Atalanta",
+   "price": "645000"
+ },
+ {
+   "player_name": "Paweł Jaroszyński",
+   "club": "Chievo",
+   "price": "369000"
+ },
+ {
+   "player_name": "Nicolás Spolli",
+   "club": "Genoa",
+   "price": "NA"
+ },
+ {
+   "player_name": "Mariano Izco",
+   "club": "Crotone",
+   "price": "NA"
+ },
+ {
+   "player_name": "Jonathan de Guzmán",
+   "club": "Napoli",
+   "price": "NA"
+ },
+ {
+   "player_name": "Serge Gakpé",
+   "club": "Genoa",
+   "price": "NA"
+ },
+ {
+   "player_name": "Giovanni Crociata",
+   "club": "Crotone",
+   "price": "4.00E+05"
+ },
+ {
+   "player_name": "Aleandro Rosi",
+   "club": "Genoa",
+   "price": "NA"
+ },
+ {
+   "player_name": "Gianmarco Ferrari",
+   "club": "Sassuolo",
+   "price": "NA"
+ },
+ {
+   "player_name": "Leonardo Capezzi",
+   "club": "Sampdoria",
+   "price": "NA"
+ },
+ {
+   "player_name": "Lorenzo Crisetig",
+   "club": "Bologna",
+   "price": "NA"
+ },
+ {
+   "player_name": "Diego Falcinelli",
+   "club": "Sassuolo",
+   "price": "NA"
+ },
+ {
+   "player_name": "Cristiano Biraghi",
+   "club": "Fiorentina",
+   "price": "NA"
+ },
+ {
+   "player_name": "Martin Graiciar",
+   "club": "Fiorentina",
+   "price": "1350000"
+ },
+ {
+   "player_name": "Dusan Vlahovic",
+   "club": "Fiorentina",
+   "price": "NA"
+ },
+ {
+   "player_name": "Lee Seung-woo",
+   "club": "Verona",
+   "price": "1380000"
+ },
+ {
+   "player_name": "Matías Fernández",
+   "club": "Fiorentina",
+   "price": "NA"
+ },
+ {
+   "player_name": "Stephane Omeonga",
+   "club": "Genoa",
+   "price": "460000"
+ },
+ {
+   "player_name": "Thomas Rodríguez",
+   "club": "Genoa",
+   "price": "507000"
+ },
+ {
+   "player_name": "Danilo Cataldi",
+   "club": "Lazio",
+   "price": "NA"
+ },
+ {
+   "player_name": "Franco Zuculini",
+   "club": "Verona",
+   "price": "NA"
+ },
+ {
+   "player_name": "Alex Ferrari",
+   "club": "Verona",
+   "price": "NA"
+ },
+ {
+   "player_name": "Deian Boldor",
+   "club": "Bologna",
+   "price": "NA"
+ },
+ {
+   "player_name": "Simone Ganz",
+   "club": "Juventus",
+   "price": "NA"
+ },
+ {
+   "player_name": "Nani",
+   "club": "Lazio",
+   "price": "NA"
+ },
+ {
+   "player_name": "Marco Tumminello",
+   "club": "Crotone",
+   "price": "NA"
+ },
+ {
+   "player_name": "Jens Odgaard",
+   "club": "Inter",
+   "price": "NA"
+ },
+ {
+   "player_name": "Nenad Tomovic",
+   "club": "Chievo",
+   "price": "NA"
+ },
+ {
+   "player_name": "Maxi López",
+   "club": "Udinese",
+   "price": "NA"
+ },
+ {
+   "player_name": "M'Baye Niang",
+   "club": "Torino",
+   "price": "NA"
+ },
+ {
+   "player_name": "Nicolás Burdisso",
+   "club": "Torino",
+   "price": "NA"
+ },
+ {
+   "player_name": "Yann Karamoh",
+   "club": "Inter",
+   "price": "NA"
+ },
+ {
+   "player_name": "Luca Antei",
+   "club": "Benevento",
+   "price": "NA"
+ },
+ {
+   "player_name": "Pietro Iemmello",
+   "club": "Benevento",
+   "price": "NA"
+ },
+ {
+   "player_name": "Mariusz Stepinski",
+   "club": "Chievo",
+   "price": "NA"
+ },
+ {
+   "player_name": "Duván Esteban Zapata",
+   "club": "Sampdoria",
+   "price": "NA"
+ },
+ {
+   "player_name": "Ivan Strinic",
+   "club": "Sampdoria",
+   "price": "1840000"
+ },
+ {
+   "player_name": "Federico Ricci",
+   "club": "Genoa",
+   "price": "NA"
+ },
+ {
+   "player_name": "Cristian Ansaldi",
+   "club": "Torino",
+   "price": "NA"
+ },
+ {
+   "player_name": "Moise Kean",
+   "club": "Verona",
+   "price": "NA"
+ },
+ {
+   "player_name": "Roberto Inglese",
+   "club": "Napoli",
+   "price": "11050000"
+ },
+ {
+   "player_name": "Roberto Inglese",
+   "club": "Chievo",
+   "price": "NA"
+ },
+ {
+   "player_name": "Asmir Begovic",
+   "club": "Bournemouth",
+   "price": "1.00E+07"
+ },
+ {
+   "player_name": "Sead Kolasinac",
+   "club": "Arsenal",
+   "price": "0"
+ },
+ {
+   "player_name": "Jon Flanagan",
+   "club": "Liverpool",
+   "price": "0"
+ },
+ {
+   "player_name": "Dominic Solanke",
+   "club": "Liverpool",
+   "price": "0"
+ },
+ {
+   "player_name": "Jordan Pickford",
+   "club": "Everton",
+   "price": "2.50E+07"
+ },
+ {
+   "player_name": "Davy Klaassen",
+   "club": "Everton",
+   "price": "23670000"
+ },
+ {
+   "player_name": "Tom Cleverley",
+   "club": "Watford",
+   "price": "8.00E+06"
+ },
+ {
+   "player_name": "Sam Hughes",
+   "club": "Leicester City",
+   "price": "NA"
+ },
+ {
+   "player_name": "Harry Maguire",
+   "club": "Leicester City",
+   "price": "1.70E+07"
+ },
+ {
+   "player_name": "Bernardo Silva",
+   "club": "Manchester City",
+   "price": "43600000"
+ },
+ {
+   "player_name": "Ederson",
+   "club": "Manchester City",
+   "price": "34900000"
+ },
+ {
+   "player_name": "Victor Lindelof",
+   "club": "Manchester United",
+   "price": "3.10E+07"
+ },
+ {
+   "player_name": "Darren Fletcher",
+   "club": "Stoke City",
+   "price": "0"
+ },
+ {
+   "player_name": "Pablo Zabaleta",
+   "club": "West Ham United",
+   "price": "0"
+ },
+ {
+   "player_name": "Allan",
+   "club": "Liverpool",
+   "price": "NA"
+ },
+ {
+   "player_name": "Baba Rahman",
+   "club": "Chelsea",
+   "price": "NA"
+ },
+ {
+   "player_name": "Pascal Gross",
+   "club": "Brighton",
+   "price": "2640000"
+ },
+ {
+   "player_name": "Josh Kerr",
+   "club": "Brighton",
+   "price": "NA"
+ },
+ {
+   "player_name": "Mathew Ryan",
+   "club": "Brighton",
+   "price": "5290000"
+ },
+ {
+   "player_name": "Nathangelo Markelo",
+   "club": "Everton",
+   "price": "NA"
+ },
+ {
+   "player_name": "Christian Atsu",
+   "club": "Newcastle United",
+   "price": "6.00E+06"
+ },
+ {
+   "player_name": "Sven Kums",
+   "club": "Watford",
+   "price": "NA"
+ },
+ {
+   "player_name": "Michael Hector",
+   "club": "Chelsea",
+   "price": "NA"
+ },
+ {
+   "player_name": "Guillermo Valera",
+   "club": "Manchester United",
+   "price": "NA"
+ },
+ {
+   "player_name": "Bojan Krkic",
+   "club": "Stoke City",
+   "price": "NA"
+ },
+ {
+   "player_name": "Mohamed Salah",
+   "club": "Liverpool",
+   "price": "36900000"
+ },
+ {
+   "player_name": "Laurent Depoitre",
+   "club": "Huddersfield Town",
+   "price": "4400000"
+ },
+ {
+   "player_name": "Will Hughes",
+   "club": "Watford",
+   "price": "8.00E+06"
+ },
+ {
+   "player_name": "Rubén Sobrino",
+   "club": "Manchester City",
+   "price": "NA"
+ },
+ {
+   "player_name": "Erwin Mulder",
+   "club": "Swansea City",
+   "price": "NA"
+ },
+ {
+   "player_name": "Jermain Defoe",
+   "club": "Bournemouth",
+   "price": "NA"
+ },
+ {
+   "player_name": "Nathan Aké",
+   "club": "Bournemouth",
+   "price": "2.00E+07"
+ },
+ {
+   "player_name": "Aaron Mooy",
+   "club": "Huddersfield Town",
+   "price": "8.00E+06"
+ },
+ {
+   "player_name": "Bafétimbi Gomis",
+   "club": "Swansea City",
+   "price": "NA"
+ },
+ {
+   "player_name": "Henry Onyekuru",
+   "club": "Everton",
+   "price": "7.00E+06"
+ },
+ {
+   "player_name": "Jonas Lössl",
+   "club": "Huddersfield Town",
+   "price": "NA"
+ },
+ {
+   "player_name": "Antonio Rüdiger",
+   "club": "Chelsea",
+   "price": "28952280"
+ },
+ {
+   "player_name": "Daniel Bachmann",
+   "club": "Watford",
+   "price": "NA"
+ },
+ {
+   "player_name": "Kiko Femenía",
+   "club": "Watford",
+   "price": "NA"
+ },
+ {
+   "player_name": "Ethan Ampadu",
+   "club": "Chelsea",
+   "price": "NA"
+ },
+ {
+   "player_name": "Jan Bednarek ",
+   "club": "Southampton",
+   "price": "5700000"
+ },
+ {
+   "player_name": "Willy Caballero",
+   "club": "Chelsea",
+   "price": "NA"
+ },
+ {
+   "player_name": "Jay Rodriguez",
+   "club": "West Bromwich Albion",
+   "price": "1.20E+07"
+ },
+ {
+   "player_name": "Yuning Zhang",
+   "club": "West Bromwich Albion",
+   "price": "NA"
+ },
+ {
+   "player_name": "Sandro Ramírez",
+   "club": "Everton",
+   "price": "5300000"
+ },
+ {
+   "player_name": "Michael Keane",
+   "club": "Everton",
+   "price": "2.50E+07"
+ },
+ {
+   "player_name": "Florian Lejeune",
+   "club": "Newcastle United",
+   "price": "8700000"
+ },
+ {
+   "player_name": "Vicente Iborra",
+   "club": "Leicester City",
+   "price": "12300000"
+ },
+ {
+   "player_name": "Connor Mahoney",
+   "club": "Bournemouth",
+   "price": "NA"
+ },
+ {
+   "player_name": "Tammy Abraham",
+   "club": "Swansea City",
+   "price": "NA"
+ },
+ {
+   "player_name": "Tom Ince",
+   "club": "Huddersfield Town",
+   "price": "8.00E+06"
+ },
+ {
+   "player_name": "Kasey Palmer",
+   "club": "Huddersfield Town",
+   "price": "NA"
+ },
+ {
+   "player_name": "Steve Mounié",
+   "club": "Huddersfield Town",
+   "price": "11450000"
+ },
+ {
+   "player_name": "Danny Williams",
+   "club": "Huddersfield Town",
+   "price": "NA"
+ },
+ {
+   "player_name": "Josh Tymon",
+   "club": "Stoke City",
+   "price": "NA"
+ },
+ {
+   "player_name": "Alexandre Lacazette",
+   "club": "Arsenal",
+   "price": "4.60E+07"
+ },
+ {
+   "player_name": "Boris Mathis",
+   "club": "Everton",
+   "price": "NA"
+ },
+ {
+   "player_name": "Scott Malone ",
+   "club": "Huddersfield Town",
+   "price": "3500000"
+ },
+ {
+   "player_name": "Roque Mesa",
+   "club": "Swansea City",
+   "price": "1.10E+07"
+ },
+ {
+   "player_name": "Charlie Taylor",
+   "club": "Burnley",
+   "price": "NA"
+ },
+ {
+   "player_name": "Josef Varney",
+   "club": "Newcastle United",
+   "price": "NA"
+ },
+ {
+   "player_name": "Stefan O'Connor",
+   "club": "Newcastle United",
+   "price": "NA"
+ },
+ {
+   "player_name": "Mathias Jorgensen",
+   "club": "Huddersfield Town",
+   "price": "2.00E+06"
+ },
+ {
+   "player_name": "Jonathan Walters",
+   "club": "Burnley",
+   "price": "3.00E+06"
+ },
+ {
+   "player_name": "Josh Bowler",
+   "club": "Everton",
+   "price": "NA"
+ },
+ {
+   "player_name": "Wayne Rooney",
+   "club": "Everton",
+   "price": "NA"
+ },
+ {
+   "player_name": "Romelu Lukaku",
+   "club": "Manchester United",
+   "price": "7.50E+07"
+ },
+ {
+   "player_name": "James Rodríguez",
+   "club": "Bayern Munich",
+   "price": "NA"
+ },
+ {
+   "player_name": "Jack Cork",
+   "club": "Burnley",
+   "price": "8.00E+06"
+ },
+ {
+   "player_name": "Ruben Loftus-Cheek",
+   "club": "Crystal Palace",
+   "price": "NA"
+ },
+ {
+   "player_name": "Anton Donkor",
+   "club": "Everton",
+   "price": "NA"
+ },
+ {
+   "player_name": "Ben Pierce",
+   "club": "West Bromwich Albion",
+   "price": "NA"
+ },
+ {
+   "player_name": "Tiémoué Bakayoko",
+   "club": "Chelsea",
+   "price": "39700000"
+ },
+ {
+   "player_name": "Markus Suttner",
+   "club": "Brighton",
+   "price": "3500000"
+ },
+ {
+   "player_name": "Kyle Walker",
+   "club": "Manchester City",
+   "price": "5.00E+07"
+ },
+ {
+   "player_name": "Nathaniel Chalobah",
+   "club": "Watford",
+   "price": "5.00E+06"
+ },
+ {
+   "player_name": "Douglas Luiz ",
+   "club": "Manchester City",
+   "price": "1.00E+07"
+ },
+ {
+   "player_name": "Tre Pemberton",
+   "club": "Stoke City",
+   "price": "NA"
+ },
+ {
+   "player_name": "Marc Walsh",
+   "club": "Swansea City",
+   "price": "NA"
+ },
+ {
+   "player_name": "Ahmed Hegazi",
+   "club": "West Bromwich Albion",
+   "price": "NA"
+ },
+ {
+   "player_name": "Jairo Riedewald",
+   "club": "Crystal Palace",
+   "price": "7900000"
+ },
+ {
+   "player_name": "Eliaquim Mangala",
+   "club": "Manchester City",
+   "price": "NA"
+ },
+ {
+   "player_name": "Mario Suárez",
+   "club": "Watford",
+   "price": "NA"
+ },
+ {
+   "player_name": "Samir Nasri",
+   "club": "Manchester City",
+   "price": "NA"
+ },
+ {
+   "player_name": "Cian Harries ",
+   "club": "Swansea City",
+   "price": "5.00E+05"
+ },
+ {
+   "player_name": "Eldin Jakupovic",
+   "club": "Leicester City",
+   "price": "2.00E+06"
+ },
+ {
+   "player_name": "Danilo",
+   "club": "Manchester City",
+   "price": "26500000"
+ },
+ {
+   "player_name": "Marko Arnautovic",
+   "club": "West Ham United",
+   "price": "2.00E+07"
+ },
+ {
+   "player_name": "Andrew Robertson",
+   "club": "Liverpool",
+   "price": "8.00E+06"
+ },
+ {
+   "player_name": "Mathias Normann",
+   "club": "Brighton",
+   "price": "1250000"
+ },
+ {
+   "player_name": "Javier Hernández",
+   "club": "West Ham United",
+   "price": "1.60E+07"
+ },
+ {
+   "player_name": "Javier Manquillo",
+   "club": "Newcastle United",
+   "price": "4500000"
+ },
+ {
+   "player_name": "Kurt Zouma",
+   "club": "Stoke City",
+   "price": "NA"
+ },
+ {
+   "player_name": "Álvaro Morata",
+   "club": "Chelsea",
+   "price": "5.80E+07"
+ },
+ {
+   "player_name": "Benjamin Mendy",
+   "club": "Manchester City",
+   "price": "5.20E+07"
+ },
+ {
+   "player_name": "Izzy Brown",
+   "club": "Brighton",
+   "price": "NA"
+ },
+ {
+   "player_name": "Phil Bardsley",
+   "club": "Burnley",
+   "price": "2.00E+06"
+ },
+ {
+   "player_name": "Mikel Merino",
+   "club": "Newcastle United",
+   "price": "NA"
+ },
+ {
+   "player_name": "Nemanja Matic",
+   "club": "Manchester United",
+   "price": "4.00E+07"
+ },
+ {
+   "player_name": "Steven Alzate",
+   "club": "Brighton",
+   "price": "NA"
+ },
+ {
+   "player_name": "Lewis Gibson",
+   "club": "Everton",
+   "price": "NA"
+ },
+ {
+   "player_name": "Joe Hart",
+   "club": "West Ham United",
+   "price": "NA"
+ },
+ {
+   "player_name": "Kelechi Iheanacho",
+   "club": "Leicester City",
+   "price": "2.50E+07"
+ },
+ {
+   "player_name": "Andreas Christensen",
+   "club": "Chelsea",
+   "price": "NA"
+ },
+ {
+   "player_name": "Philipp Wollscheid",
+   "club": "Stoke City",
+   "price": "NA"
+ },
+ {
+   "player_name": "Ales Mateju",
+   "club": "Brighton",
+   "price": "1500000"
+ },
+ {
+   "player_name": "Timothy Fosu-Mensah",
+   "club": "Crystal Palace",
+   "price": "NA"
+ },
+ {
+   "player_name": "Davy Pröpper",
+   "club": "Brighton",
+   "price": "12660000"
+ },
+ {
+   "player_name": "Sead Haksabanovic",
+   "club": "West Ham United",
+   "price": "3.00E+06"
+ },
+ {
+   "player_name": "George Thomas",
+   "club": "Leicester City",
+   "price": "NA"
+ },
+ {
+   "player_name": "Richarlison",
+   "club": "Watford",
+   "price": "11500000"
+ },
+ {
+   "player_name": "Adam Legzdins",
+   "club": "Burnley",
+   "price": "NA"
+ },
+ {
+   "player_name": "Mario Lemina",
+   "club": "Southampton",
+   "price": "16300000"
+ },
+ {
+   "player_name": "Eric Maxim Choupo-Moting",
+   "club": "Stoke City",
+   "price": "0"
+ },
+ {
+   "player_name": "Andre Gray",
+   "club": "Watford",
+   "price": "18500000"
+ },
+ {
+   "player_name": "Jose Izquierdo",
+   "club": "Brighton",
+   "price": "13500000"
+ },
+ {
+   "player_name": "Bruno Martins Indi",
+   "club": "Stoke City",
+   "price": "7.00E+06"
+ },
+ {
+   "player_name": "Gareth Barry",
+   "club": "West Bromwich Albion",
+   "price": "1.00E+06"
+ },
+ {
+   "player_name": "Gylfi Sigurdsson",
+   "club": "Everton",
+   "price": "4.50E+07"
+ },
+ {
+   "player_name": "Soufyan Ahannach",
+   "club": "Brighton",
+   "price": "NA"
+ },
+ {
+   "player_name": "Jesé Rodríguez",
+   "club": "Stoke City",
+   "price": "NA"
+ },
+ {
+   "player_name": "Joselu",
+   "club": "Newcastle United",
+   "price": "5.00E+06"
+ },
+ {
+   "player_name": "Larry Kayode",
+   "club": "Manchester City",
+   "price": "3500000"
+ },
+ {
+   "player_name": "Davinson Sánchez",
+   "club": "Tottenham Hotspur",
+   "price": "4.20E+07"
+ },
+ {
+   "player_name": "Chris Wood",
+   "club": "Burnley",
+   "price": "1.50E+07"
+ },
+ {
+   "player_name": "Sam Clucas",
+   "club": "Swansea City",
+   "price": "1.50E+07"
+ },
+ {
+   "player_name": "Wesley Hoedt",
+   "club": "Southampton",
+   "price": "1.50E+07"
+ },
+ {
+   "player_name": "Abdelhamid Sabiri",
+   "club": "Huddersfield Town",
+   "price": "1.00E+06"
+ },
+ {
+   "player_name": "Paulo Gazzaniga",
+   "club": "Tottenham Hotspur",
+   "price": "2.00E+06"
+ },
+ {
+   "player_name": "Florent Hadergjonaj",
+   "club": "Huddersfield Town",
+   "price": "NA"
+ },
+ {
+   "player_name": "Zlatan Ibrahimovic",
+   "club": "Manchester United",
+   "price": "NA"
+ },
+ {
+   "player_name": "Oliver Burke",
+   "club": "West Bromwich Albion",
+   "price": "1.50E+07"
+ },
+ {
+   "player_name": "Jack Rose",
+   "club": "Southampton",
+   "price": "NA"
+ },
+ {
+   "player_name": "André Carrillo",
+   "club": "Watford",
+   "price": "NA"
+ },
+ {
+   "player_name": "Dimitri Foulquier",
+   "club": "Watford",
+   "price": "NA"
+ },
+ {
+   "player_name": "Robert Green",
+   "club": "Huddersfield Town",
+   "price": "NA"
+ },
+ {
+   "player_name": "Naby Keïta",
+   "club": "Liverpool",
+   "price": "NA"
+ },
+ {
+   "player_name": "Kevin Wimmer",
+   "club": "Stoke City",
+   "price": "1.80E+07"
+ },
+ {
+   "player_name": "Kieran Gibbs",
+   "club": "West Bromwich Albion",
+   "price": "7.00E+06"
+ },
+ {
+   "player_name": "Juan Foyth",
+   "club": "Tottenham Hotspur",
+   "price": "9.00E+06"
+ },
+ {
+   "player_name": "Grzegorz Krychowiak",
+   "club": "West Bromwich Albion",
+   "price": "NA"
+ },
+ {
+   "player_name": "Alex Oxlade-Chamberlain",
+   "club": "Liverpool",
+   "price": "3.50E+07"
+ },
+ {
+   "player_name": "Serge Aurier",
+   "club": "Tottenham Hotspur",
+   "price": "2.30E+07"
+ },
+ {
+   "player_name": "Orestis Karnezis",
+   "club": "Watford",
+   "price": "NA"
+ },
+ {
+   "player_name": "Renato Sanches",
+   "club": "Swansea City",
+   "price": "NA"
+ },
+ {
+   "player_name": "Nahki Wells",
+   "club": "Burnley",
+   "price": "5.00E+06"
+ },
+ {
+   "player_name": "Olivier Ntcham",
+   "club": "Manchester City",
+   "price": "NA"
+ },
+ {
+   "player_name": "Kylian Hazard",
+   "club": "Chelsea",
+   "price": "NA"
+ },
+ {
+   "player_name": "Ezequiel Schelotto",
+   "club": "Brighton",
+   "price": "2770000"
+ },
+ {
+   "player_name": "Molla Wague",
+   "club": "Watford",
+   "price": "NA"
+ },
+ {
+   "player_name": "Nikola Vlasic",
+   "club": "Everton",
+   "price": "9.00E+06"
+ },
+ {
+   "player_name": "Marvin Zeegelaar",
+   "club": "Watford",
+   "price": "2760000"
+ },
+ {
+   "player_name": "Kyle Jameson",
+   "club": "West Bromwich Albion",
+   "price": "NA"
+ },
+ {
+   "player_name": "Davide Zappacosta",
+   "club": "Chelsea",
+   "price": "25750000"
+ },
+ {
+   "player_name": "Aleksandar Dragovic",
+   "club": "Leicester City",
+   "price": "NA"
+ },
+ {
+   "player_name": "Tim Krul",
+   "club": "Brighton",
+   "price": "NA"
+ },
+ {
+   "player_name": "Fernando Llorente",
+   "club": "Tottenham Hotspur",
+   "price": "1.20E+07"
+ },
+ {
+   "player_name": "Wilfried Bony",
+   "club": "Swansea City",
+   "price": "1.20E+07"
+ },
+ {
+   "player_name": "Danny Drinkwater",
+   "club": "Chelsea",
+   "price": "3.50E+07"
+ },
+ {
+   "player_name": "Mamadou Sakho",
+   "club": "Crystal Palace",
+   "price": "2.60E+07"
+ },
+ {
+   "player_name": "Youri Tielemans",
+   "club": "Monaco",
+   "price": "21600000"
+ },
+ {
+   "player_name": "Benoît Costil",
+   "club": "Bordeaux",
+   "price": "0"
+ },
+ {
+   "player_name": "Jean-Luc Dompé",
+   "club": "Amiens",
+   "price": "NA"
+ },
+ {
+   "player_name": "Junior Tallo",
+   "club": "Lille",
+   "price": "NA"
+ },
+ {
+   "player_name": "Goran Karanovic",
+   "club": "Angers",
+   "price": "NA"
+ },
+ {
+   "player_name": "Yoane Wissa",
+   "club": "Angers",
+   "price": "NA"
+ },
+ {
+   "player_name": "Enzo Crivelli",
+   "club": "Bordeaux",
+   "price": "NA"
+ },
+ {
+   "player_name": "Lukas Lerager",
+   "club": "Bordeaux",
+   "price": "2640000"
+ },
+ {
+   "player_name": "Frédéric Guilbert",
+   "club": "Bordeaux",
+   "price": "NA"
+ },
+ {
+   "player_name": "Christian Kouakou",
+   "club": "Caen",
+   "price": "NA"
+ },
+ {
+   "player_name": "Florian Le Joncour",
+   "club": "Bordeaux",
+   "price": "NA"
+ },
+ {
+   "player_name": "Jordan Nkololo",
+   "club": "Caen",
+   "price": "NA"
+ },
+ {
+   "player_name": "Jordan Tell",
+   "club": "Rennes",
+   "price": "0"
+ },
+ {
+   "player_name": "Jean-Victor Makengo",
+   "club": "Nice",
+   "price": "NA"
+ },
+ {
+   "player_name": "Eden Massouema",
+   "club": "Dijon",
+   "price": "NA"
+ },
+ {
+   "player_name": "Pierre Lees-Melou",
+   "club": "Nice",
+   "price": "1760000"
+ },
+ {
+   "player_name": "Marvin Martin",
+   "club": "Lille",
+   "price": "NA"
+ },
+ {
+   "player_name": "Diego Benaglio",
+   "club": "Monaco",
+   "price": "NA"
+ },
+ {
+   "player_name": "Steven Fortes",
+   "club": "Toulouse",
+   "price": "NA"
+ },
+ {
+   "player_name": "Kenny Lala",
+   "club": "Strasbourg",
+   "price": "NA"
+ },
+ {
+   "player_name": "Pablo Martinez",
+   "club": "Strasbourg",
+   "price": "NA"
+ },
+ {
+   "player_name": "Faitout Maouassa",
+   "club": "Rennes",
+   "price": "6150000"
+ },
+ {
+   "player_name": "Hamari Traoré",
+   "club": "Rennes",
+   "price": "1750000"
+ },
+ {
+   "player_name": "Benjamin Bourigeaud",
+   "club": "Rennes",
+   "price": "2640000"
+ },
+ {
+   "player_name": "Adrien Tameze",
+   "club": "Nice",
+   "price": "7.00E+05"
+ },
+ {
+   "player_name": "Ruben Aguilar",
+   "club": "Montpellier",
+   "price": "NA"
+ },
+ {
+   "player_name": "Jordi Mboula",
+   "club": "Monaco",
+   "price": "2600000"
+ },
+ {
+   "player_name": "Soualiho Meïté",
+   "club": "Monaco",
+   "price": "7.00E+06"
+ },
+ {
+   "player_name": "Jordy Gaspar",
+   "club": "Monaco",
+   "price": "NA"
+ },
+ {
+   "player_name": "Brighton Labeau",
+   "club": "Amiens",
+   "price": "NA"
+ },
+ {
+   "player_name": "Nicolas Pépé",
+   "club": "Lille",
+   "price": "8800000"
+ },
+ {
+   "player_name": "Pedro Rebocho",
+   "club": "Guingamp",
+   "price": "480000"
+ },
+ {
+   "player_name": "Lebogang Phiri",
+   "club": "Guingamp",
+   "price": "0"
+ },
+ {
+   "player_name": "Fernando Marçal",
+   "club": "Lyon",
+   "price": "3900000"
+ },
+ {
+   "player_name": "Mathieu Bodmer",
+   "club": "Amiens",
+   "price": "NA"
+ },
+ {
+   "player_name": "Luiz Araujo",
+   "club": "Lille",
+   "price": "8800000"
+ },
+ {
+   "player_name": "Baptiste Guillaume",
+   "club": "Angers",
+   "price": "1750000"
+ },
+ {
+   "player_name": "Stef Peeters",
+   "club": "Caen",
+   "price": "1300000"
+ },
+ {
+   "player_name": "Felix Eboa Eboa",
+   "club": "Guingamp",
+   "price": "NA"
+ },
+ {
+   "player_name": "Hervé Koffi",
+   "club": "Lille",
+   "price": "NA"
+ },
+ {
+   "player_name": "Rony Lopes",
+   "club": "Monaco",
+   "price": "NA"
+ },
+ {
+   "player_name": "Zinédine Machach",
+   "club": "Toulouse",
+   "price": "NA"
+ },
+ {
+   "player_name": "Moussa Niakhaté",
+   "club": "Metz",
+   "price": "440000"
+ },
+ {
+   "player_name": "Ibrahima Niane",
+   "club": "Metz",
+   "price": "NA"
+ },
+ {
+   "player_name": "Mathieu Deplagne",
+   "club": "Troyes",
+   "price": "NA"
+ },
+ {
+   "player_name": "Yacouba Sylla",
+   "club": "Rennes",
+   "price": "NA"
+ },
+ {
+   "player_name": "Aldo Kalulu",
+   "club": "Lyon",
+   "price": "NA"
+ },
+ {
+   "player_name": "Baptiste Guillaume",
+   "club": "Lille",
+   "price": "NA"
+ },
+ {
+   "player_name": "Odsonne Edouard",
+   "club": "Paris Saint-Germain",
+   "price": "NA"
+ },
+ {
+   "player_name": "Abdoul Camara",
+   "club": "Guingamp",
+   "price": "NA"
+ },
+ {
+   "player_name": "Oswaldo Vizcarrondo",
+   "club": "Troyes",
+   "price": "NA"
+ },
+ {
+   "player_name": "Valère Germain",
+   "club": "Marseille",
+   "price": "7.00E+06"
+ },
+ {
+   "player_name": "Alexandre Mendy",
+   "club": "Bordeaux",
+   "price": "510000"
+ },
+ {
+   "player_name": "Bryan Pelé",
+   "club": "Troyes",
+   "price": "NA"
+ },
+ {
+   "player_name": "Bertrand Traoré",
+   "club": "Lyon",
+   "price": "8800000"
+ },
+ {
+   "player_name": "Enzo Crivelli",
+   "club": "Angers",
+   "price": "3500000"
+ },
+ {
+   "player_name": "Franck Tabanou",
+   "club": "Guingamp",
+   "price": "NA"
+ },
+ {
+   "player_name": "Gabriel",
+   "club": "Troyes",
+   "price": "NA"
+ },
+ {
+   "player_name": "Adama Mbengue",
+   "club": "Caen",
+   "price": "NA"
+ },
+ {
+   "player_name": "Jean-Christophe Bouet",
+   "club": "Amiens",
+   "price": "NA"
+ },
+ {
+   "player_name": "Benjamin Lecomte",
+   "club": "Montpellier",
+   "price": "NA"
+ },
+ {
+   "player_name": "Jonathan Bamba",
+   "club": "Saint-Etienne",
+   "price": "NA"
+ },
+ {
+   "player_name": "Cédric Yambéré",
+   "club": "Dijon",
+   "price": "NA"
+ },
+ {
+   "player_name": "Marc-Aurèle Caillard",
+   "club": "Guingamp",
+   "price": "NA"
+ },
+ {
+   "player_name": "Youssouf Sabaly",
+   "club": "Bordeaux",
+   "price": "3500000"
+ },
+ {
+   "player_name": "Ferland Mendy",
+   "club": "Lyon",
+   "price": "4400000"
+ },
+ {
+   "player_name": "Mariano Díaz",
+   "club": "Lyon",
+   "price": "7016095"
+ },
+ {
+   "player_name": "Prince Gouano",
+   "club": "Amiens",
+   "price": "NA"
+ },
+ {
+   "player_name": "Madih Talal",
+   "club": "Amiens",
+   "price": "NA"
+ },
+ {
+   "player_name": "Brice Samba",
+   "club": "Caen",
+   "price": "NA"
+ },
+ {
+   "player_name": "Joris Kayembe",
+   "club": "Nantes",
+   "price": "NA"
+ },
+ {
+   "player_name": "Corentin Jean",
+   "club": "Monaco",
+   "price": "NA"
+ },
+ {
+   "player_name": "Corentin Jean",
+   "club": "Toulouse",
+   "price": "3500000"
+ },
+ {
+   "player_name": "Terence Kongolo",
+   "club": "Monaco",
+   "price": "11400000"
+ },
+ {
+   "player_name": "Baïssama Sankoh",
+   "club": "Caen",
+   "price": "NA"
+ },
+ {
+   "player_name": "Luiz Gustavo",
+   "club": "Marseille",
+   "price": "7.00E+06"
+ },
+ {
+   "player_name": "François Bellugou",
+   "club": "Troyes",
+   "price": "NA"
+ },
+ {
+   "player_name": "Wilfired Kanga",
+   "club": "Angers",
+   "price": "NA"
+ },
+ {
+   "player_name": "Chidozie Awaziem",
+   "club": "Nantes",
+   "price": "NA"
+ },
+ {
+   "player_name": "Marcus Thuram",
+   "club": "Guingamp",
+   "price": "NA"
+ },
+ {
+   "player_name": "Angelo Fulgini",
+   "club": "Angers",
+   "price": "1230000"
+ },
+ {
+   "player_name": "Lassana Coulibaly",
+   "club": "Angers",
+   "price": "3500000"
+ },
+ {
+   "player_name": "Florian Thauvin",
+   "club": "Marseille",
+   "price": "9.00E+06"
+ },
+ {
+   "player_name": "Jonathan Ikoné",
+   "club": "Montpellier",
+   "price": "NA"
+ },
+ {
+   "player_name": "Saidy Janko",
+   "club": "Saint-Etienne",
+   "price": "NA"
+ },
+ {
+   "player_name": "Yuri Berchiche",
+   "club": "Paris Saint-Germain",
+   "price": "13200000"
+ },
+ {
+   "player_name": "Loïs Diony",
+   "club": "Saint-Etienne",
+   "price": "4250000"
+ },
+ {
+   "player_name": "Kévin Malcuit",
+   "club": "Lille",
+   "price": "7100000"
+ },
+ {
+   "player_name": "Wesley Lautoa",
+   "club": "Dijon",
+   "price": "1300000"
+ },
+ {
+   "player_name": "Wesley Saïd",
+   "club": "Dijon",
+   "price": "1330000"
+ },
+ {
+   "player_name": "Brandon Thomas Llamas",
+   "club": "Rennes",
+   "price": "2660000"
+ },
+ {
+   "player_name": "Kenny Tete",
+   "club": "Lyon",
+   "price": "3500000"
+ },
+ {
+   "player_name": "Cheikh Traoré",
+   "club": "Guingamp",
+   "price": "NA"
+ },
+ {
+   "player_name": "Ezequiel Ponce",
+   "club": "Lille",
+   "price": "NA"
+ },
+ {
+   "player_name": "Gaël Kakuta",
+   "club": "Amiens",
+   "price": "NA"
+ },
+ {
+   "player_name": "Alvaro Fernandez Llorente",
+   "club": "Monaco",
+   "price": "NA"
+ },
+ {
+   "player_name": "Ablie Jallow",
+   "club": "Metz",
+   "price": "NA"
+ },
+ {
+   "player_name": "Steve Mandanda",
+   "club": "Marseille",
+   "price": "1750000"
+ },
+ {
+   "player_name": "Kévin Bérigaud ",
+   "club": "Montpellier",
+   "price": "NA"
+ },
+ {
+   "player_name": "Alexander Djiku",
+   "club": "Caen",
+   "price": "1780000"
+ },
+ {
+   "player_name": "Benjamin Jeannot",
+   "club": "Dijon",
+   "price": "NA"
+ },
+ {
+   "player_name": "Dani Alves",
+   "club": "Paris Saint-Germain",
+   "price": "NA"
+ },
+ {
+   "player_name": "Adil Rami",
+   "club": "Marseille",
+   "price": "5300000"
+ },
+ {
+   "player_name": "Marcelo Guedes",
+   "club": "Lyon",
+   "price": "6604136"
+ },
+ {
+   "player_name": "Clément Chantôme",
+   "club": "Strasbourg",
+   "price": "NA"
+ },
+ {
+   "player_name": "Bingourou Kamara",
+   "club": "Strasbourg",
+   "price": "NA"
+ },
+ {
+   "player_name": "Thiago Mendes",
+   "club": "Lille",
+   "price": "7650000"
+ },
+ {
+   "player_name": "Clinton N'Jie",
+   "club": "Marseille",
+   "price": "6140000"
+ },
+ {
+   "player_name": "Sekou Baradji",
+   "club": "Amiens",
+   "price": "NA"
+ },
+ {
+   "player_name": "Vukasin Jovanovic",
+   "club": "Bordeaux",
+   "price": "2500000"
+ },
+ {
+   "player_name": "Pedro Mendes",
+   "club": "Montpellier",
+   "price": "2500000"
+ },
+ {
+   "player_name": "Giovanni Sio",
+   "club": "Montpellier",
+   "price": "4500000"
+ },
+ {
+   "player_name": "Christophe Jallet",
+   "club": "Nice",
+   "price": "NA"
+ },
+ {
+   "player_name": "Nolan Roux",
+   "club": "Metz",
+   "price": "NA"
+ },
+ {
+   "player_name": "Idriss Saadi",
+   "club": "Strasbourg",
+   "price": "NA"
+ },
+ {
+   "player_name": "Naim Sliti",
+   "club": "Dijon",
+   "price": "NA"
+ },
+ {
+   "player_name": "Thiago Maia",
+   "club": "Lille",
+   "price": "12515600"
+ },
+ {
+   "player_name": "Saîf-Eddine Khaoui",
+   "club": "Troyes",
+   "price": "NA"
+ },
+ {
+   "player_name": "Jonas Martin",
+   "club": "Strasbourg",
+   "price": "2227262"
+ },
+ {
+   "player_name": "Yannick Cahuzac",
+   "club": "Toulouse",
+   "price": "NA"
+ },
+ {
+   "player_name": "Ismaïla Sarr",
+   "club": "Rennes",
+   "price": "15124082"
+ },
+ {
+   "player_name": "Ciprian Tatarusanu",
+   "club": "Nantes",
+   "price": "2670000"
+ },
+ {
+   "player_name": "Nicolas Pallois",
+   "club": "Nantes",
+   "price": "1787850"
+ },
+ {
+   "player_name": "Frédéric Guilbert",
+   "club": "Caen",
+   "price": "1878825"
+ },
+ {
+   "player_name": "Facundo Piriz",
+   "club": "Montpellier",
+   "price": "NA"
+ },
+ {
+   "player_name": "Assane Dioussé",
+   "club": "Saint-Etienne",
+   "price": "4479735"
+ },
+ {
+   "player_name": "Adama Diakhaby",
+   "club": "Monaco",
+   "price": "9.00E+06"
+ },
+ {
+   "player_name": "Cafú",
+   "club": "Metz",
+   "price": "2.00E+06"
+ },
+ {
+   "player_name": "Neymar",
+   "club": "Paris Saint-Germain",
+   "price": "1.98E+08"
+ },
+ {
+   "player_name": "Issa Cissokho",
+   "club": "Amiens",
+   "price": "NA"
+ },
+ {
+   "player_name": "Saliou Ciss",
+   "club": "Angers",
+   "price": "NA"
+ },
+ {
+   "player_name": "Puyo",
+   "club": "Angers",
+   "price": "NA"
+ },
+ {
+   "player_name": "Fodé Ballo-Touré",
+   "club": "Lille",
+   "price": "NA"
+ },
+ {
+   "player_name": "Edgar Ié",
+   "club": "Lille",
+   "price": "4508000"
+ },
+ {
+   "player_name": "Quentin Beunardeau",
+   "club": "Metz",
+   "price": "NA"
+ },
+ {
+   "player_name": "Gerónimo Poblete",
+   "club": "Metz",
+   "price": "NA"
+ },
+ {
+   "player_name": "Nuno da Costa",
+   "club": "Strasbourg",
+   "price": "NA"
+ },
+ {
+   "player_name": "Benjamin Corgnet",
+   "club": "Strasbourg",
+   "price": "NA"
+ },
+ {
+   "player_name": "Wesley Sneijder",
+   "club": "Nice",
+   "price": "NA"
+ },
+ {
+   "player_name": "Allan Saint-Maximin",
+   "club": "Nice",
+   "price": "9050000"
+ },
+ {
+   "player_name": "Hernani",
+   "club": "Saint-Etienne",
+   "price": "NA"
+ },
+ {
+   "player_name": "Jonathan Cafu",
+   "club": "Bordeaux",
+   "price": "6360000"
+ },
+ {
+   "player_name": "Otávio",
+   "club": "Bordeaux",
+   "price": "4500000"
+ },
+ {
+   "player_name": "Gabriel Silva",
+   "club": "Saint-Etienne",
+   "price": "2.00E+06"
+ },
+ {
+   "player_name": "Jordan Amavi",
+   "club": "Marseille",
+   "price": "NA"
+ },
+ {
+   "player_name": "Moussa Konaté",
+   "club": "Amiens",
+   "price": "NA"
+ },
+ {
+   "player_name": "Andrei Girotto",
+   "club": "Nantes",
+   "price": "1.00E+06"
+ },
+ {
+   "player_name": "Aït Bennasser",
+   "club": "Caen",
+   "price": "NA"
+ },
+ {
+   "player_name": "Max Gradel",
+   "club": "Toulouse",
+   "price": "NA"
+ },
+ {
+   "player_name": "Yassine El-Ghanassy",
+   "club": "Nantes",
+   "price": "1361775"
+ },
+ {
+   "player_name": "Jan Repas",
+   "club": "Caen",
+   "price": "1361530"
+ },
+ {
+   "player_name": "Martin Terrier",
+   "club": "Strasbourg",
+   "price": "NA"
+ },
+ {
+   "player_name": "Kalifa Coulibaly",
+   "club": "Nantes",
+   "price": "2750000"
+ },
+ {
+   "player_name": "Braima Fati",
+   "club": "Saint-Etienne",
+   "price": "NA"
+ },
+ {
+   "player_name": "Junior Sambia",
+   "club": "Montpellier",
+   "price": "NA"
+ },
+ {
+   "player_name": "Brian Fernández",
+   "club": "Metz",
+   "price": "NA"
+ },
+ {
+   "player_name": "Emmanuel Rivière",
+   "club": "Metz",
+   "price": "5.00E+05"
+ },
+ {
+   "player_name": "Dimitri Foulquier",
+   "club": "Strasbourg",
+   "price": "NA"
+ },
+ {
+   "player_name": "Rene Krhin",
+   "club": "Nantes",
+   "price": "NA"
+ },
+ {
+   "player_name": "Bakary Koné",
+   "club": "Strasbourg",
+   "price": "NA"
+ },
+ {
+   "player_name": "Tomas Koubek",
+   "club": "Rennes",
+   "price": "1851000"
+ },
+ {
+   "player_name": "Stefan Jovetic",
+   "club": "Monaco",
+   "price": "1.00E+07"
+ },
+ {
+   "player_name": "Keita Baldé",
+   "club": "Monaco",
+   "price": "NA"
+ },
+ {
+   "player_name": "Philipp Wollscheid",
+   "club": "Metz",
+   "price": "NA"
+ },
+ {
+   "player_name": "Serge Gakpé",
+   "club": "Amiens",
+   "price": "NA"
+ },
+ {
+   "player_name": "Aymen Abdennour",
+   "club": "Marseille",
+   "price": "NA"
+ },
+ {
+   "player_name": "Hyun-Jun Suk",
+   "club": "Troyes",
+   "price": "NA"
+ },
+ {
+   "player_name": "Gianni Imbula",
+   "club": "Toulouse",
+   "price": "NA"
+ },
+ {
+   "player_name": "Lacina Traoré",
+   "club": "Amiens",
+   "price": "NA"
+ },
+ {
+   "player_name": "Denis Petric ",
+   "club": "Guingamp",
+   "price": "NA"
+ },
+ {
+   "player_name": "Danilo Avelar",
+   "club": "Amiens",
+   "price": "NA"
+ },
+ {
+   "player_name": "Matheus Pereira",
+   "club": "Bordeaux",
+   "price": "NA"
+ },
+ {
+   "player_name": "Papy Djilobodji",
+   "club": "Dijon",
+   "price": "NA"
+ },
+ {
+   "player_name": "Kylian Mbappé",
+   "club": "Paris Saint-Germain",
+   "price": "NA"
+ },
+ {
+   "player_name": "Rémy Cabella",
+   "club": "Saint-Etienne",
+   "price": "NA"
+ },
+ {
+   "player_name": "Nampalys Mendy",
+   "club": "Nice",
+   "price": "NA"
+ },
+ {
+   "player_name": "Tanguy Ndombélé",
+   "club": "Lyon",
+   "price": "10130000"
+ },
+ {
+   "player_name": "Wahbi Khazri",
+   "club": "Rennes",
+   "price": "NA"
+ },
+ {
+   "player_name": "Xeka",
+   "club": "Dijon",
+   "price": "NA"
+ },
+ {
+   "player_name": "Nathan",
+   "club": "Amiens",
+   "price": "NA"
+ },
+ {
+   "player_name": "Kostas Mitroglou",
+   "club": "Marseille",
+   "price": "13810000"
+ },
+ {
+   "player_name": "Thomas Touré",
+   "club": "Angers",
+   "price": "1530000"
+ },
+ {
+   "player_name": "Vinícius Júnior ",
+   "club": "Real Madrid",
+   "price": "39600000"
+ },
+ {
+   "player_name": "Diego López",
+   "club": "Espanyol",
+   "price": "0"
+ },
+ {
+   "player_name": "Enes Unal",
+   "club": "Villarreal",
+   "price": "1.20E+07"
+ },
+ {
+   "player_name": "Cristian Tello",
+   "club": "Barcelona",
+   "price": "NA"
+ },
+ {
+   "player_name": "Guilherme",
+   "club": "Deportivo La Coruña",
+   "price": "3530000"
+ },
+ {
+   "player_name": "Rubén Duarte",
+   "club": "Alavés",
+   "price": "350000"
+ },
+ {
+   "player_name": "Héctor Hernández",
+   "club": "Alavés",
+   "price": "NA"
+ },
+ {
+   "player_name": "Gorka Iraizoz",
+   "club": "Girona",
+   "price": "NA"
+ },
+ {
+   "player_name": "Leo Baptistão",
+   "club": "Espanyol",
+   "price": "3100000"
+ },
+ {
+   "player_name": "Sergio León",
+   "club": "Real Betis",
+   "price": "3100000"
+ },
+ {
+   "player_name": "Yoel",
+   "club": "Eibar",
+   "price": "660000"
+ },
+ {
+   "player_name": "Iván Alejo",
+   "club": "Eibar",
+   "price": "265000"
+ },
+ {
+   "player_name": "Pablo Piatti",
+   "club": "Espanyol",
+   "price": "1300000"
+ },
+ {
+   "player_name": "Javi Varas",
+   "club": "Granada",
+   "price": "NA"
+ },
+ {
+   "player_name": "Antonio Puertas",
+   "club": "Granada",
+   "price": "NA"
+ },
+ {
+   "player_name": "Ximo Navarro",
+   "club": "Las Palmas",
+   "price": "NA"
+ },
+ {
+   "player_name": "Raúl García",
+   "club": "Leganés",
+   "price": "NA"
+ },
+ {
+   "player_name": "Dimitris Siovas",
+   "club": "Leganés",
+   "price": "2380000"
+ },
+ {
+   "player_name": "Tito",
+   "club": "Leganés",
+   "price": "NA"
+ },
+ {
+   "player_name": "Sergio García",
+   "club": "Espanyol",
+   "price": "NA"
+ },
+ {
+   "player_name": "Adrián González",
+   "club": "Málaga",
+   "price": "NA"
+ },
+ {
+   "player_name": "Luciano Vietto",
+   "club": "Atlético Madrid",
+   "price": "NA"
+ },
+ {
+   "player_name": "Andrés Fernández",
+   "club": "Villarreal",
+   "price": "1750000"
+ },
+ {
+   "player_name": "Rubén Semedo",
+   "club": "Villarreal",
+   "price": "12300000"
+ },
+ {
+   "player_name": "Carles Planas",
+   "club": "Girona",
+   "price": "NA"
+ },
+ {
+   "player_name": "Jesus Vallejo",
+   "club": "Real Madrid",
+   "price": "NA"
+ },
+ {
+   "player_name": "Fede Valverde",
+   "club": "Deportivo La Coruña",
+   "price": "NA"
+ },
+ {
+   "player_name": "Maxi Gómez",
+   "club": "Celta Vigo",
+   "price": "3520000"
+ },
+ {
+   "player_name": "Diego Llorente",
+   "club": "Real Sociedad",
+   "price": "6150000"
+ },
+ {
+   "player_name": "Ermedin Demirovic",
+   "club": "Alavés",
+   "price": "NA"
+ },
+ {
+   "player_name": "Antonio Luna",
+   "club": "Levante",
+   "price": "NA"
+ },
+ {
+   "player_name": "Marko Dmitrovic",
+   "club": "Eibar",
+   "price": "620000"
+ },
+ {
+   "player_name": "Éver Banega",
+   "club": "Sevilla",
+   "price": "8.00E+06"
+ },
+ {
+   "player_name": "Marcos Llorente",
+   "club": "Real Madrid",
+   "price": "NA"
+ },
+ {
+   "player_name": "Víctor Camarasa",
+   "club": "Levante",
+   "price": "NA"
+ },
+ {
+   "player_name": "Adrián Ortolá",
+   "club": "Barcelona",
+   "price": "NA"
+ },
+ {
+   "player_name": "Deyverson",
+   "club": "Levante",
+   "price": "NA"
+ },
+ {
+   "player_name": "Theo Hernández",
+   "club": "Atlético Madrid",
+   "price": "NA"
+ },
+ {
+   "player_name": "Dani Pacheco",
+   "club": "Getafe",
+   "price": "NA"
+ },
+ {
+   "player_name": "Víctor Camarasa",
+   "club": "Real Betis",
+   "price": "6150000"
+ },
+ {
+   "player_name": "Enzo Zidane",
+   "club": "Alavés",
+   "price": "NA"
+ },
+ {
+   "player_name": "Gerard Deulofeu",
+   "club": "Barcelona",
+   "price": "1.00E+07"
+ },
+ {
+   "player_name": "Cristian Tello",
+   "club": "Real Betis",
+   "price": "3509335"
+ },
+ {
+   "player_name": "Nemanja Maksimovic",
+   "club": "Valencia",
+   "price": "NA"
+ },
+ {
+   "player_name": "Jérémie Porsan-Clémenté",
+   "club": "Montpellier",
+   "price": "NA"
+ },
+ {
+   "player_name": "Paul Baysse",
+   "club": "Málaga",
+   "price": "NA"
+ },
+ {
+   "player_name": "Joseba Zaldua",
+   "club": "Leganés",
+   "price": "NA"
+ },
+ {
+   "player_name": "Charles Días de Oliveira",
+   "club": "Eibar",
+   "price": "NA"
+ },
+ {
+   "player_name": "Borja Bastón",
+   "club": "Málaga",
+   "price": "NA"
+ },
+ {
+   "player_name": "Jozabed",
+   "club": "Celta Vigo",
+   "price": "3.00E+06"
+ },
+ {
+   "player_name": "Theo Hernández",
+   "club": "Real Madrid",
+   "price": "22800000"
+ },
+ {
+   "player_name": "Roberto Jiménez",
+   "club": "Málaga",
+   "price": "NA"
+ },
+ {
+   "player_name": "Alfonso Pedraza ",
+   "club": "Alavés",
+   "price": "NA"
+ },
+ {
+   "player_name": "Antonio Barragán",
+   "club": "Real Betis",
+   "price": "NA"
+ },
+ {
+   "player_name": "Rubén Sobrino",
+   "club": "Alavés",
+   "price": "1750000"
+ },
+ {
+   "player_name": "Pablo Hervías",
+   "club": "Eibar",
+   "price": "NA"
+ },
+ {
+   "player_name": "Francisco Portillo",
+   "club": "Getafe",
+   "price": "1300000"
+ },
+ {
+   "player_name": "Ángel Rodríguez",
+   "club": "Getafe",
+   "price": "530000"
+ },
+ {
+   "player_name": "Chuli",
+   "club": "Getafe",
+   "price": "615000"
+ },
+ {
+   "player_name": "Leandro Chichizola",
+   "club": "Las Palmas",
+   "price": "NA"
+ },
+ {
+   "player_name": "Jordi Amat",
+   "club": "Real Betis",
+   "price": "NA"
+ },
+ {
+   "player_name": "Andrés Guardado",
+   "club": "Real Betis",
+   "price": "1750000"
+ },
+ {
+   "player_name": "Esteban Granero",
+   "club": "Espanyol",
+   "price": "NA"
+ },
+ {
+   "player_name": "Neto",
+   "club": "Valencia",
+   "price": "6189253"
+ },
+ {
+   "player_name": "Bernardo Espinosa",
+   "club": "Girona",
+   "price": "NA"
+ },
+ {
+   "player_name": "Guillermo Maripán",
+   "club": "Alavés",
+   "price": "NA"
+ },
+ {
+   "player_name": "José Aurelio Suárez",
+   "club": "Girona",
+   "price": "NA"
+ },
+ {
+   "player_name": "Guido Pizarro",
+   "club": "Sevilla",
+   "price": "5300000"
+ },
+ {
+   "player_name": "Luis Muriel",
+   "club": "Sevilla",
+   "price": "17650000"
+ },
+ {
+   "player_name": "Vitinho",
+   "club": "Barcelona",
+   "price": "NA"
+ },
+ {
+   "player_name": "Vitolo",
+   "club": "Atlético Madrid",
+   "price": "31800000"
+ },
+ {
+   "player_name": "Vitolo",
+   "club": "Las Palmas",
+   "price": "NA"
+ },
+ {
+   "player_name": "Adnan Januzaj",
+   "club": "Real Sociedad",
+   "price": "9800000"
+ },
+ {
+   "player_name": "Hernán Toledo",
+   "club": "Las Palmas",
+   "price": "NA"
+ },
+ {
+   "player_name": "Jonathan Calleri",
+   "club": "Las Palmas",
+   "price": "NA"
+ },
+ {
+   "player_name": "Sébastien Corchia",
+   "club": "Sevilla",
+   "price": "4250000"
+ },
+ {
+   "player_name": "Nélson Semedo",
+   "club": "Barcelona",
+   "price": "26450000"
+ },
+ {
+   "player_name": "Dani Ceballos",
+   "club": "Real Madrid",
+   "price": "14500000"
+ },
+ {
+   "player_name": "Zakaria Bakkali",
+   "club": "Deportivo La Coruña",
+   "price": "NA"
+ },
+ {
+   "player_name": "Mario Hermoso",
+   "club": "Espanyol",
+   "price": "250000"
+ },
+ {
+   "player_name": "Joan Jordán",
+   "club": "Eibar",
+   "price": "85000"
+ },
+ {
+   "player_name": "Nolito",
+   "club": "Sevilla",
+   "price": "7883112"
+ },
+ {
+   "player_name": "Stanislav Lobotka",
+   "club": "Celta Vigo",
+   "price": "1.00E+06"
+ },
+ {
+   "player_name": "Paulo Oliveira",
+   "club": "Eibar",
+   "price": "3500000"
+ },
+ {
+   "player_name": "Wakaso Mubarak",
+   "club": "Alavés",
+   "price": "NA"
+ },
+ {
+   "player_name": "Santos Borré",
+   "club": "Atlético Madrid",
+   "price": "NA"
+ },
+ {
+   "player_name": "Simone Zaza",
+   "club": "Valencia",
+   "price": "15800000"
+ },
+ {
+   "player_name": "Fabián Orellana",
+   "club": "Valencia",
+   "price": "2640000"
+ },
+ {
+   "player_name": "Munir El Haddadi",
+   "club": "Barcelona",
+   "price": "NA"
+ },
+ {
+   "player_name": "Guilherme Siqueira",
+   "club": "Atlético Madrid",
+   "price": "NA"
+ },
+ {
+   "player_name": "Matías Kranevitter",
+   "club": "Atlético Madrid",
+   "price": "NA"
+ },
+ {
+   "player_name": "José Angel",
+   "club": "Eibar",
+   "price": "NA"
+ },
+ {
+   "player_name": "Markel Bergara",
+   "club": "Getafe",
+   "price": "NA"
+ },
+ {
+   "player_name": "Juankar",
+   "club": "Málaga",
+   "price": "NA"
+ },
+ {
+   "player_name": "Cenk Gonen",
+   "club": "Málaga",
+   "price": "9.00E+05"
+ },
+ {
+   "player_name": "Faycal Fajr",
+   "club": "Getafe",
+   "price": "1240000"
+ },
+ {
+   "player_name": "Vitorino Antunes",
+   "club": "Getafe",
+   "price": "NA"
+ },
+ {
+   "player_name": "FIlip Manojlovic",
+   "club": "Getafe",
+   "price": "1.00E+06"
+ },
+ {
+   "player_name": "Cristhian Stuani",
+   "club": "Girona",
+   "price": "1500000"
+ },
+ {
+   "player_name": "Fabian Schär",
+   "club": "Deportivo La Coruña",
+   "price": "3589411"
+ },
+ {
+   "player_name": "Zdravko Kuzmanovic",
+   "club": "Málaga",
+   "price": "NA"
+ },
+ {
+   "player_name": "Pablo Fornals",
+   "club": "Villarreal",
+   "price": "10718137"
+ },
+ {
+   "player_name": "Ivan Cuellar",
+   "club": "Leganés",
+   "price": "NA"
+ },
+ {
+   "player_name": "Javier Eraso",
+   "club": "Leganés",
+   "price": "NA"
+ },
+ {
+   "player_name": "Djené",
+   "club": "Getafe",
+   "price": "893350"
+ },
+ {
+   "player_name": "Zouhair Feddal",
+   "club": "Real Betis",
+   "price": "NA"
+ },
+ {
+   "player_name": "Antonio Sivera",
+   "club": "Alavés",
+   "price": "1783355"
+ },
+ {
+   "player_name": "Emiliano Velázquez",
+   "club": "Getafe",
+   "price": "NA"
+ },
+ {
+   "player_name": "Emanuel Cecchini",
+   "club": "Málaga",
+   "price": "4448260"
+ },
+ {
+   "player_name": "Alberto Tendillo",
+   "club": "Levante",
+   "price": "NA"
+ },
+ {
+   "player_name": "Farid Boulaya",
+   "club": "Girona",
+   "price": "NA"
+ },
+ {
+   "player_name": "Alberto de la Bella",
+   "club": "Real Sociedad",
+   "price": "NA"
+ },
+ {
+   "player_name": "Douglas Luiz",
+   "club": "Girona",
+   "price": "NA"
+ },
+ {
+   "player_name": "Jesus Navas",
+   "club": "Sevilla",
+   "price": "NA"
+ },
+ {
+   "player_name": "Marlos Moreno",
+   "club": "Girona",
+   "price": "NA"
+ },
+ {
+   "player_name": "Aleix García",
+   "club": "Girona",
+   "price": "NA"
+ },
+ {
+   "player_name": "Pablo Maffeo",
+   "club": "Girona",
+   "price": "NA"
+ },
+ {
+   "player_name": "Simon Kjaer",
+   "club": "Sevilla",
+   "price": "11600000"
+ },
+ {
+   "player_name": "Emiliano Martínez ",
+   "club": "Getafe",
+   "price": "NA"
+ },
+ {
+   "player_name": "Rodrigo Ely",
+   "club": "Alavés",
+   "price": "2697450"
+ },
+ {
+   "player_name": "Rober Pier",
+   "club": "Levante",
+   "price": "NA"
+ },
+ {
+   "player_name": "Diego González",
+   "club": "Málaga",
+   "price": "1700000"
+ },
+ {
+   "player_name": "Borja Mayoral",
+   "club": "Real Madrid",
+   "price": "NA"
+ },
+ {
+   "player_name": "Ben Whitfield",
+   "club": "Port Vale",
+   "price": "NA"
+ },
+ {
+   "player_name": "Cheick Doukouré",
+   "club": "Levante",
+   "price": "1442560"
+ },
+ {
+   "player_name": "Burgui",
+   "club": "Alavés",
+   "price": "2500000"
+ },
+ {
+   "player_name": "Alex Alegria",
+   "club": "Levante",
+   "price": "NA"
+ },
+ {
+   "player_name": "Gerard Valentín",
+   "club": "Deportivo La Coruña",
+   "price": "NA"
+ },
+ {
+   "player_name": "Mauro dos Santos",
+   "club": "Leganés",
+   "price": "NA"
+ },
+ {
+   "player_name": "Àlvaro Jiménez",
+   "club": "Getafe",
+   "price": "850000"
+ },
+ {
+   "player_name": "Gaku Shibasaki",
+   "club": "Getafe",
+   "price": "NA"
+ },
+ {
+   "player_name": "Gerard Gumbau",
+   "club": "Leganés",
+   "price": "NA"
+ },
+ {
+   "player_name": "Nereo Champagne",
+   "club": "Leganés",
+   "price": "NA"
+ },
+ {
+   "player_name": "Ruben Pérez",
+   "club": "Leganés",
+   "price": "NA"
+ },
+ {
+   "player_name": "Enis Bardhi",
+   "club": "Levante",
+   "price": "1300000"
+ },
+ {
+   "player_name": "Rachid Ghezzal",
+   "club": "Monaco",
+   "price": "NA"
+ },
+ {
+   "player_name": "Kévin Soni",
+   "club": "Girona",
+   "price": "NA"
+ },
+ {
+   "player_name": "Tomás Pina",
+   "club": "Alavés",
+   "price": "NA"
+ },
+ {
+   "player_name": "Ivi",
+   "club": "Levante",
+   "price": "1358000"
+ },
+ {
+   "player_name": "Ezequiel Muñoz",
+   "club": "Leganés",
+   "price": "2.00E+06"
+ },
+ {
+   "player_name": "Ryad Boudebouz",
+   "club": "Real Betis",
+   "price": "6300000"
+ },
+ {
+   "player_name": "Naldo",
+   "club": "Espanyol",
+   "price": "1810000"
+ },
+ {
+   "player_name": "Amath Ndiaye",
+   "club": "Getafe",
+   "price": "NA"
+ },
+ {
+   "player_name": "Adrián López",
+   "club": "Deportivo La Coruña",
+   "price": "NA"
+ },
+ {
+   "player_name": "Marc Muniesa",
+   "club": "Girona",
+   "price": "NA"
+ },
+ {
+   "player_name": "Paulinho",
+   "club": "Barcelona",
+   "price": "36400000"
+ },
+ {
+   "player_name": "Javi García",
+   "club": "Real Betis",
+   "price": "1300000"
+ },
+ {
+   "player_name": "Sasa Lukic",
+   "club": "Levante",
+   "price": "NA"
+ },
+ {
+   "player_name": "Emmanuel Boateng",
+   "club": "Levante",
+   "price": "1800000"
+ },
+ {
+   "player_name": "Carlos Bacca",
+   "club": "Villarreal",
+   "price": "NA"
+ },
+ {
+   "player_name": "Larry Kayode",
+   "club": "Girona",
+   "price": "NA"
+ },
+ {
+   "player_name": "Rubén Yáñez",
+   "club": "Getafe",
+   "price": "NA"
+ },
+ {
+   "player_name": "Rubén Yáñez",
+   "club": "Cádiz",
+   "price": "NA"
+ },
+ {
+   "player_name": "Gabriel",
+   "club": "Valencia",
+   "price": "1.00E+07"
+ },
+ {
+   "player_name": "Johan Mojica",
+   "club": "Girona",
+   "price": "NA"
+ },
+ {
+   "player_name": "Jeison Murillo",
+   "club": "Valencia",
+   "price": "NA"
+ },
+ {
+   "player_name": "Geoffrey Kondogbia",
+   "club": "Valencia",
+   "price": "24600000"
+ },
+ {
+   "player_name": "Mohamed Cholay",
+   "club": "Espanyol",
+   "price": "NA"
+ },
+ {
+   "player_name": "Alberto Aquilani",
+   "club": "Las Palmas",
+   "price": "NA"
+ },
+ {
+   "player_name": "Ousmane Dembélé",
+   "club": "Barcelona",
+   "price": "96670000"
+ },
+ {
+   "player_name": "Nando",
+   "club": "Alavés",
+   "price": "NA"
+ },
+ {
+   "player_name": "Diego Rolán",
+   "club": "Málaga",
+   "price": "NA"
+ },
+ {
+   "player_name": "Sergi Samper",
+   "club": "Las Palmas",
+   "price": "NA"
+ },
+ {
+   "player_name": "Samu García",
+   "club": "Levante",
+   "price": "NA"
+ },
+ {
+   "player_name": "Pape Cheikh Diop",
+   "club": "Lyon",
+   "price": "9400000"
+ },
+ {
+   "player_name": "Mitchell Langerak",
+   "club": "Levante",
+   "price": "720000"
+ },
+ {
+   "player_name": "Emre Mor",
+   "club": "Celta Vigo",
+   "price": "11700000"
+ },
+ {
+   "player_name": "Lucas Pérez",
+   "club": "Deportivo La Coruña",
+   "price": "NA"
+ },
+ {
+   "player_name": "Lionel Carole",
+   "club": "Sevilla",
+   "price": "NA"
+ },
+ {
+   "player_name": "Bojan Krkic",
+   "club": "Alavés",
+   "price": "NA"
+ },
+ {
+   "player_name": "Sergi Darder",
+   "club": "Espanyol",
+   "price": "NA"
+ },
+ {
+   "player_name": "Joel Campbell",
+   "club": "Real Betis",
+   "price": "NA"
+ },
+ {
+   "player_name": "Nordin Amrabat",
+   "club": "Leganés",
+   "price": "NA"
+ },
+ {
+   "player_name": "Andreas Pereira",
+   "club": "Valencia",
+   "price": "NA"
+ },
+ {
+   "player_name": "Johannes Geis",
+   "club": "Sevilla",
+   "price": "1650000"
+ },
+ {
+   "player_name": "Gonçalo Guedes",
+   "club": "Valencia",
+   "price": "NA"
+ },
+ {
+   "player_name": "Nano",
+   "club": "Levante",
+   "price": "NA"
+ },
+ {
+   "player_name": "Costel Pantilimon",
+   "club": "Deportivo La Coruña",
+   "price": "NA"
+ },
+ {
+   "player_name": "Sergio Sánchez",
+   "club": "Espanyol",
+   "price": "NA"
+ },
+ {
+   "player_name": "José Naranjo",
+   "club": "Leganés",
+   "price": "NA"
+ },
+ {
+   "player_name": "Munir El Haddadi",
+   "club": "Alavés",
+   "price": "NA"
+ },
+ {
+   "player_name": "Loïc Rémy",
+   "club": "Las Palmas",
+   "price": "NA"
+ },
+ {
+   "player_name": "David Timor",
+   "club": "Girona",
+   "price": "NA"
+ },
+ {
+   "player_name": "Jefferson Montero",
+   "club": "Getafe",
+   "price": "NA"
+ },
+ {
+   "player_name": "Michael Olunga",
+   "club": "Girona",
+   "price": "NA"
+ },
+ {
+   "player_name": "Erick Cabaco",
+   "club": "Levante",
+   "price": "NA"
+ },
+ {
+   "player_name": "Oussama Tannane",
+   "club": "Las Palmas",
+   "price": "NA"
+ },
+ {
+   "player_name": "Álvaro Medrán",
+   "club": "Alavés",
+   "price": "NA"
+ },
+ {
+   "player_name": "Matthias Ostrzolek",
+   "club": "Hannover 96",
+   "price": "0"
+ },
+ {
+   "player_name": "Serge Gnabry",
+   "club": "Bayern Munich",
+   "price": "7.00E+06"
+ },
+ {
+   "player_name": "Corentin Tolisso",
+   "club": "Bayern Munich",
+   "price": "36380000"
+ },
+ {
+   "player_name": "Niklas Süle",
+   "club": "Bayern Munich",
+   "price": "19290000"
+ },
+ {
+   "player_name": "Sebastian Rudy",
+   "club": "Bayern Munich",
+   "price": "NA"
+ },
+ {
+   "player_name": "Kingsley Coman",
+   "club": "Bayern Munich",
+   "price": "18410000"
+ },
+ {
+   "player_name": "Holger Badstuber",
+   "club": "Bayern Munich",
+   "price": "NA"
+ },
+ {
+   "player_name": "Bruma",
+   "club": "RB Leipzig",
+   "price": "10960000"
+ },
+ {
+   "player_name": "Ibrahima Konaté",
+   "club": "RB Leipzig",
+   "price": "NA"
+ },
+ {
+   "player_name": "Yvon Mvogo",
+   "club": "RB Leipzig",
+   "price": "4380000"
+ },
+ {
+   "player_name": "Nils Quaschner",
+   "club": "RB Leipzig",
+   "price": "NA"
+ },
+ {
+   "player_name": "Atinc Nukan",
+   "club": "RB Leipzig",
+   "price": "NA"
+ },
+ {
+   "player_name": "Massimo Bruno",
+   "club": "RB Leipzig",
+   "price": "NA"
+ },
+ {
+   "player_name": "Anthony Jung",
+   "club": "RB Leipzig",
+   "price": "NA"
+ },
+ {
+   "player_name": "Rani Khedira",
+   "club": "Augsburg",
+   "price": "0"
+ },
+ {
+   "player_name": "Davie Selke",
+   "club": "Hertha Berlin",
+   "price": "7.00E+06"
+ },
+ {
+   "player_name": "Maximilian Philipp",
+   "club": "Borussia Dortmund",
+   "price": "17530000"
+ },
+ {
+   "player_name": "Dan-Axel Zagadou",
+   "club": "Borussia Dortmund",
+   "price": "NA"
+ },
+ {
+   "player_name": "Omer Toprak",
+   "club": "Borussia Dortmund",
+   "price": "10520000"
+ },
+ {
+   "player_name": "Mahmoud Dahoud",
+   "club": "Borussia Dortmund",
+   "price": "10520000"
+ },
+ {
+   "player_name": "Neven Subotic",
+   "club": "Borussia Dortmund",
+   "price": "NA"
+ },
+ {
+   "player_name": "Adrian Ramos",
+   "club": "Borussia Dortmund",
+   "price": "NA"
+ },
+ {
+   "player_name": "Pascal Stenzel",
+   "club": "Freiburg",
+   "price": "3500000"
+ },
+ {
+   "player_name": "Justin Hoogma",
+   "club": "Hoffenheim",
+   "price": "1750000"
+ },
+ {
+   "player_name": "Florian Grillitsch",
+   "club": "Hoffenheim",
+   "price": "0"
+ },
+ {
+   "player_name": "Havard Nordtveit",
+   "club": "Hoffenheim",
+   "price": "1760000"
+ },
+ {
+   "player_name": "Kevin Akpoguma",
+   "club": "Hoffenheim",
+   "price": "NA"
+ },
+ {
+   "player_name": "Baris Atik",
+   "club": "Hoffenheim",
+   "price": "NA"
+ },
+ {
+   "player_name": "Park In-hyeok ",
+   "club": "Hoffenheim",
+   "price": "NA"
+ },
+ {
+   "player_name": "Antonio Colak",
+   "club": "Hoffenheim",
+   "price": "NA"
+ },
+ {
+   "player_name": "Pirmin Schwegler",
+   "club": "Hannover 96",
+   "price": "NA"
+ },
+ {
+   "player_name": "Jannes Horn",
+   "club": "FC Cologne",
+   "price": "6170000"
+ },
+ {
+   "player_name": "Karim Rekik",
+   "club": "Hertha Berlin",
+   "price": "1940000"
+ },
+ {
+   "player_name": "Matthew Leckie",
+   "club": "Hertha Berlin",
+   "price": "2640000"
+ },
+ {
+   "player_name": "Marius Gersbeck",
+   "club": "Hertha Berlin",
+   "price": "NA"
+ },
+ {
+   "player_name": "John Brooks",
+   "club": "Wolfsburg",
+   "price": "17630000"
+ },
+ {
+   "player_name": "Florian Niederlechner",
+   "club": "Freiburg",
+   "price": "2030000"
+ },
+ {
+   "player_name": "Florian Kath",
+   "club": "Freiburg",
+   "price": "NA"
+ },
+ {
+   "player_name": "Jonas Meffert",
+   "club": "Freiburg",
+   "price": "NA"
+ },
+ {
+   "player_name": "Tim Kleindienst",
+   "club": "Freiburg",
+   "price": "NA"
+ },
+ {
+   "player_name": "Caleb Stanko",
+   "club": "Freiburg",
+   "price": "NA"
+ },
+ {
+   "player_name": "Sebastian Kerk",
+   "club": "Freiburg",
+   "price": "NA"
+ },
+ {
+   "player_name": "Vincenzo Grifo",
+   "club": "Borussia Mönchengladbach",
+   "price": "5290000"
+ },
+ {
+   "player_name": "Fabian Menig",
+   "club": "Freiburg",
+   "price": "NA"
+ },
+ {
+   "player_name": "Ludwig Augustinsson",
+   "club": "Werder Bremen",
+   "price": "4.00E+06"
+ },
+ {
+   "player_name": "Jerome Gondorf",
+   "club": "Werder Bremen",
+   "price": "1060000"
+ },
+ {
+   "player_name": "Nabil Bentaleb",
+   "club": "Schalke 04",
+   "price": "16750000"
+ },
+ {
+   "player_name": "Yevhen Konoplyanka",
+   "club": "Schalke 04",
+   "price": "1.10E+07"
+ },
+ {
+   "player_name": "Fabian Giefer",
+   "club": "Augsburg",
+   "price": "660000"
+ },
+ {
+   "player_name": "Jan Zimmermann",
+   "club": "Eintracht Frankfurt",
+   "price": "NA"
+ },
+ {
+   "player_name": "Marius Wolf",
+   "club": "Eintracht Frankfurt",
+   "price": "NA"
+ },
+ {
+   "player_name": "Carlos Salcedo",
+   "club": "Eintracht Frankfurt",
+   "price": "NA"
+ },
+ {
+   "player_name": "Sebastien Haller",
+   "club": "Eintracht Frankfurt",
+   "price": "7050000"
+ },
+ {
+   "player_name": "Danny da Costa",
+   "club": "Eintracht Frankfurt",
+   "price": "880000"
+ },
+ {
+   "player_name": "Gelson Fernandes",
+   "club": "Eintracht Frankfurt",
+   "price": "880000"
+ },
+ {
+   "player_name": "Dominik Kohr",
+   "club": "Bayer Leverkusen",
+   "price": "1760000"
+ },
+ {
+   "player_name": "Landry Dimata",
+   "club": "Wolfsburg",
+   "price": "8800000"
+ },
+ {
+   "player_name": "William",
+   "club": "Wolfsburg",
+   "price": "4400000"
+ },
+ {
+   "player_name": "Marvin Stefaniak",
+   "club": "Wolfsburg",
+   "price": "1320000"
+ },
+ {
+   "player_name": "Orel Mangala",
+   "club": "Stuttgart",
+   "price": "1580000"
+ },
+ {
+   "player_name": "Benjamin Hadzic",
+   "club": "Stuttgart",
+   "price": "NA"
+ },
+ {
+   "player_name": "Michael Esser",
+   "club": "Hannover 96",
+   "price": "1538000"
+ },
+ {
+   "player_name": "Yousef Emghames",
+   "club": "Hannover 96",
+   "price": "NA"
+ },
+ {
+   "player_name": "Tom Baller",
+   "club": "Hannover 96",
+   "price": "NA"
+ },
+ {
+   "player_name": "Julian Korb",
+   "club": "Hannover 96",
+   "price": "2500000"
+ },
+ {
+   "player_name": "Reece Oxford",
+   "club": "Borussia Mönchengladbach",
+   "price": "NA"
+ },
+ {
+   "player_name": "Gianluca Gaudino",
+   "club": "Bayern Munich",
+   "price": "NA"
+ },
+ {
+   "player_name": "René Adler",
+   "club": "Mainz 05",
+   "price": "NA"
+ },
+ {
+   "player_name": "Takuma Asano",
+   "club": "Stuttgart",
+   "price": "NA"
+ },
+ {
+   "player_name": "Mickaël Cuisance",
+   "club": "Borussia Mönchengladbach",
+   "price": "NA"
+ },
+ {
+   "player_name": "Denis Zakaria",
+   "club": "Borussia Mönchengladbach",
+   "price": "8800000"
+ },
+ {
+   "player_name": "Philipp Köhn",
+   "club": "RB Leipzig",
+   "price": "NA"
+ },
+ {
+   "player_name": "Julian Pollersbeck ",
+   "club": "Hamburg",
+   "price": "3100000"
+ },
+ {
+   "player_name": "Kenan Kodro",
+   "club": "Mainz 05",
+   "price": "1539750"
+ },
+ {
+   "player_name": "Luka Jovic",
+   "club": "Eintracht Frankfurt",
+   "price": "NA"
+ },
+ {
+   "player_name": "Alexandru Maxim",
+   "club": "Mainz 05",
+   "price": "2550000"
+ },
+ {
+   "player_name": "Jhon Cordoba",
+   "club": "FC Cologne",
+   "price": "14200000"
+ },
+ {
+   "player_name": "Bjarne Thoelke",
+   "club": "Hamburg",
+   "price": "NA"
+ },
+ {
+   "player_name": "Viktor Fischer",
+   "club": "Mainz 05",
+   "price": "NA"
+ },
+ {
+   "player_name": "Marcel Heller",
+   "club": "Augsburg",
+   "price": "NA"
+ },
+ {
+   "player_name": "Kyriakos Papadopoulos",
+   "club": "Hamburg",
+   "price": "5750000"
+ },
+ {
+   "player_name": "Daichi Kamada",
+   "club": "Eintracht Frankfurt",
+   "price": "2200000"
+ },
+ {
+   "player_name": "André Hahn",
+   "club": "Hamburg",
+   "price": "5300000"
+ },
+ {
+   "player_name": "Robert Zulj",
+   "club": "Hoffenheim",
+   "price": "NA"
+ },
+ {
+   "player_name": "Pablo Insua",
+   "club": "Schalke 04",
+   "price": "3100000"
+ },
+ {
+   "player_name": "Felix Uduokhai",
+   "club": "Wolfsburg",
+   "price": "880000"
+ },
+ {
+   "player_name": "Konrad Laimer",
+   "club": "RB Leipzig",
+   "price": "6.00E+06"
+ },
+ {
+   "player_name": "Jiri Pavlenka",
+   "club": "Werder Bremen",
+   "price": "2500000"
+ },
+ {
+   "player_name": "Anastasios Donis",
+   "club": "Stuttgart",
+   "price": "2550000"
+ },
+ {
+   "player_name": "Mevlut Erding",
+   "club": "Hannover 96",
+   "price": "NA"
+ },
+ {
+   "player_name": "Yuning Zhang",
+   "club": "Werder Bremen",
+   "price": "NA"
+ },
+ {
+   "player_name": "Matthias Ginter",
+   "club": "Borussia Mönchengladbach",
+   "price": "14900000"
+ },
+ {
+   "player_name": "Michael Gregoritsch",
+   "club": "Augsburg",
+   "price": "4400000"
+ },
+ {
+   "player_name": "Sergio Córdova",
+   "club": "Augsburg",
+   "price": "880000"
+ },
+ {
+   "player_name": "Philipp Leinhart",
+   "club": "Freiburg",
+   "price": "NA"
+ },
+ {
+   "player_name": "Jonathan de Guzmán",
+   "club": "Eintracht Frankfurt",
+   "price": "1750000"
+ },
+ {
+   "player_name": "Jean-Kévin Augustin",
+   "club": "RB Leipzig",
+   "price": "11400000"
+ },
+ {
+   "player_name": "Ignacio Camacho",
+   "club": "Wolfsburg",
+   "price": "8800000"
+ },
+ {
+   "player_name": "Kaylen Hinds",
+   "club": "Wolfsburg",
+   "price": "2.00E+06"
+ },
+ {
+   "player_name": "Nico Schulz",
+   "club": "Hoffenheim",
+   "price": "3100000"
+ },
+ {
+   "player_name": "Chadrac Akolo",
+   "club": "Stuttgart",
+   "price": "NA"
+ },
+ {
+   "player_name": "Dzenis Burnic",
+   "club": "Stuttgart",
+   "price": "NA"
+ },
+ {
+   "player_name": "Amine Harit",
+   "club": "Schalke 04",
+   "price": "8860000"
+ },
+ {
+   "player_name": "Jonathan Klinsmann",
+   "club": "Hertha Berlin",
+   "price": "NA"
+ },
+ {
+   "player_name": "Ron-Robert Zieler",
+   "club": "Stuttgart",
+   "price": "2500000"
+ },
+ {
+   "player_name": "Sven Bender",
+   "club": "Bayer Leverkusen",
+   "price": "13230000"
+ },
+ {
+   "player_name": "Serge Gnabry",
+   "club": "Hoffenheim",
+   "price": "NA"
+ },
+ {
+   "player_name": "Abdou Diallo",
+   "club": "Mainz 05",
+   "price": "3500000"
+ },
+ {
+   "player_name": "Bartosz Kapustka",
+   "club": "Freiburg",
+   "price": "NA"
+ },
+ {
+   "player_name": "Bastian Oczipka",
+   "club": "Schalke 04",
+   "price": "3900000"
+ },
+ {
+   "player_name": "João Queirós",
+   "club": "FC Cologne",
+   "price": "2650000"
+ },
+ {
+   "player_name": "Ailton Ferreira Silva",
+   "club": "Stuttgart",
+   "price": "9.00E+05"
+ },
+ {
+   "player_name": "Jorge Meré",
+   "club": "FC Cologne",
+   "price": "7600000"
+ },
+ {
+   "player_name": "Jetro Willems",
+   "club": "Eintracht Frankfurt",
+   "price": "4500000"
+ },
+ {
+   "player_name": "Tim Handwerker",
+   "club": "FC Cologne",
+   "price": "NA"
+ },
+ {
+   "player_name": "Valentino Lazaro",
+   "club": "Hertha Berlin",
+   "price": "NA"
+ },
+ {
+   "player_name": "Michael Langer",
+   "club": "Schalke 04",
+   "price": "NA"
+ },
+ {
+   "player_name": "Rick van Drongelen",
+   "club": "Hamburg",
+   "price": "2550000"
+ },
+ {
+   "player_name": "Holger Badstuber",
+   "club": "Stuttgart",
+   "price": "NA"
+ },
+ {
+   "player_name": "André Ramalho",
+   "club": "Bayer Leverkusen",
+   "price": "NA"
+ },
+ {
+   "player_name": "Paul Verhaegh",
+   "club": "Wolfsburg",
+   "price": "1360000"
+ },
+ {
+   "player_name": "Jérémy Clément",
+   "club": "Nancy",
+   "price": "NA"
+ },
+ {
+   "player_name": "Marco Terrazzino",
+   "club": "Freiburg",
+   "price": "2250000"
+ },
+ {
+   "player_name": "Simon Falette",
+   "club": "Eintracht Frankfurt",
+   "price": "2750000"
+ },
+ {
+   "player_name": "Raúl Bobadilla",
+   "club": "Borussia Mönchengladbach",
+   "price": "2.00E+06"
+ },
+ {
+   "player_name": "Santiago Ascacibar",
+   "club": "Stuttgart",
+   "price": "7800000"
+ },
+ {
+   "player_name": "Marcel Tisserand",
+   "club": "Wolfsburg",
+   "price": "NA"
+ },
+ {
+   "player_name": "Jonathas",
+   "club": "Hannover 96",
+   "price": "7330000"
+ },
+ {
+   "player_name": "Robin Koch",
+   "club": "Freiburg",
+   "price": "3670000"
+ },
+ {
+   "player_name": "Yoric Ravet",
+   "club": "Freiburg",
+   "price": "4160000"
+ },
+ {
+   "player_name": "Andriy Yarmolenko",
+   "club": "Borussia Dortmund",
+   "price": "23100000"
+ },
+ {
+   "player_name": "Felix Passlack",
+   "club": "Hoffenheim",
+   "price": "NA"
+ },
+ {
+   "player_name": "Jeremy Toljan",
+   "club": "Borussia Dortmund",
+   "price": "4500000"
+ },
+ {
+   "player_name": "Panagiotis Restos",
+   "club": "Bayer Leverkusen",
+   "price": "16600000"
+ },
+ {
+   "player_name": "Kevin Kampl",
+   "club": "RB Leipzig",
+   "price": "18450000"
+ },
+ {
+   "player_name": "Kilian Jakob",
+   "club": "Augsburg",
+   "price": "NA"
+ },
+ {
+   "player_name": "Alexander Meyer",
+   "club": "Stuttgart",
+   "price": "NA"
+ },
+ {
+   "player_name": "Ante Rebic",
+   "club": "Eintracht Frankfurt",
+   "price": "NA"
+ },
+ {
+   "player_name": "Divock Origi",
+   "club": "Wolfsburg",
+   "price": "NA"
+ },
+ {
+   "player_name": "Jadon Sancho",
+   "club": "Borussia Dortmund",
+   "price": "8.00E+06"
+ },
+ {
+   "player_name": "Ishak Belfodil",
+   "club": "Werder Bremen",
+   "price": "NA"
+ },
+ {
+   "player_name": "Andreas Beck",
+   "club": "Stuttgart",
+   "price": "1840000"
+ },
+ {
+   "player_name": "Ryan Kent",
+   "club": "Freiburg",
+   "price": "NA"
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ },
+ {
+   "player_name": "",
+   "club": "",
+   "price": ""
+ }
+]
