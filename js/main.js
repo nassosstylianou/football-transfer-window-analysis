@@ -46,19 +46,3 @@ function barChart(selectedTeam) {
 } 
 
 
-
-/*var netSpendReply; 
-if (value.net_spend == 0) {
-  netSpendReply = value.club + " did not spend any money in this summer's transfer window."
-}
- else if (value.net_spend > 0 && value.net_spend < 1000) {
-      netSpendReply = value.club + " spent £" + value.net_spend + " in this summer's transfer window."
-  }
- else if (value.net_spend >= 1000 && value.net_spend < 1000000) {
-      netSpendReply = value.club + " spent £" + value.net_spend / 1000 + " thousand in this summer's transfer window."
-  }
-  else if (value.net_spend >= 1000000) {
-   netSpendReply = value.club + " spent £" + value.net_spend / 1000000 + " million in this summer's transfer window."
-              }  
-
-*/
