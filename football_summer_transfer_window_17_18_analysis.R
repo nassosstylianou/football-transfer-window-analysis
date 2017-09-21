@@ -5,6 +5,11 @@ require('dplyr')
 #loads data from online source
 transfer_data <- read.csv(text=getURL("https://raw.githubusercontent.com/Worville/guardian_transfers/master/guardian_all_transfers_2017-09-02.csv"), header=T, stringsAsFactors = FALSE)
 
+player_transfers <- select(transfer_data, player_name, new_club, price_pounds, new_league) %>% filter(new_league == "Premier League" | new_league == "Serie A" | new_league == "Bundesliga" | new_league == "La Liga" | new_league == "Ligue 1") %>% arrange(desc(new_league)) %>% filter(new_club != "Pescara") %>% filter(new_club != "Free agent")
+
+write.csv(player_transfers, "~/Desktop/coding_projects/football_transfers/data/player_transfers.csv")
+
+
 #prints first few rows of data
 head(transfer_data)
 
