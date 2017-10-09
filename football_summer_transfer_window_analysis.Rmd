@@ -1,34 +1,58 @@
-#loads required packages
-require('RCurl')
-require('dplyr')
+---
+title: "Football Transfer Window Analysis"
+author: "Nassos Stylianou"
+date: "October 2017"
+output: html_document
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
 options(scipen=999)
+require(RCurl)
+require(dplyr)
+require(ggplot2)
 
+```
 
-#loads data from online source
+First up, we need to get the transfer data, which [Tom Worville](https://twitter.com/Worville) has very kindly put online on his [Github page](https://github.com/Worville/guardian_transfers/blob/master/guardian_all_transfers_2017-09-02.csv)
+
+```{r}
 transfer_data <- read.csv(text=getURL("https://raw.githubusercontent.com/Worville/guardian_transfers/master/guardian_all_transfers_2017-09-02.csv"), header=T, stringsAsFactors = FALSE)
 
-player_transfers <- select(transfer_data, player_name, new_club, price_pounds, new_league) %>% filter(new_league == "Premier League" | new_league == "Serie A" | new_league == "Bundesliga" | new_league == "La Liga" | new_league == "Ligue 1") %>% arrange(desc(new_league)) %>% filter(new_club != "Pescara") %>% filter(new_club != "Free agent")
+```
+This is how the first few rows of the data look like: 
 
-player_transfers$price_pounds[is.na(player_transfers$price_pounds)] <- " "
-
-write.csv(player_transfers, "~/Desktop/coding_projects/football_transfers/data/player_transfers.csv")
-
-#prints first few rows of data
+```{r}
 head(transfer_data)
+```
+The first step is to make a new dataframe groupping the data by new club, ordering it by the most incoming transfers per club. 
 
-#analyses transfer data to sort by incoming transfers by club, ordered by  club with most transfers
+```{r} 
 incoming_transfers <- group_by(transfer_data, new_club) %>% summarise(count = n()) %>% arrange(desc(count))
 names(incoming_transfers) <- c("new_club", "players_in")
+head(incoming_transfers, 10)
+```
+Next step is to make a new dataframe groupping the data by the player's previous club, ordered by the club with most outgoing transfers
 
-#analyses transfer data to sort by outgoing transfers by club, ordered by  club with most transfers
+```{r}
 outgoing_transfers <- group_by(transfer_data, previous_club) %>% summarise(count = n()) %>% arrange(desc(count))
 names(outgoing_transfers) <- c("club", "players_out")
+top_10 <- head(outgoing_transfers, 10)
+```
 
-#analyses transfer data to sort by the cost of incoming transfers by club, ordered by  club with most transfers
+Groups by the cost of incoming transfers by club and orders dataframe by club with most spent to buy players
+```{r}
 incoming_transfers_cost <- group_by(transfer_data, new_club) %>% summarise(total = sum(price_pounds, na.rm=TRUE)) %>% arrange(desc(total))
+head(incoming_transfers_cost, 10)
+ggplot
+```
+Groups by the cost of outgoing transfers by club, ordered by  club with most money received selling players 
 
-#analyses transfer data to sort by the cost of outgoing transfers by club, ordered by  club with most transfers
+```{r}
 outgoing_transfers_cost <- group_by(transfer_data, previous_club) %>% summarise(total = sum(price_pounds, na.rm=TRUE)) %>% arrange(desc(total))
+head(outgoing_transfers_cost, 10)
+```
 
 #merges cost of incoming transfers and outgoing transfer dataset and creates a column on total net spend by club
 net_spend_per_club <- merge(incoming_transfers_cost, outgoing_transfers_cost, by.x=c("new_club"), by.y=c("previous_club")) %>% mutate(net_spend = total.x - total.y) %>% select(new_club, net_spend)
@@ -47,6 +71,10 @@ all_clubs <- rbind(new_clubs, old_clubs) %>% subset(!duplicated(club))
 net_spend_per_club_top_five_leagues <- merge(net_spend_per_club, all_clubs, by.x = "new_club", by.y = "club") %>% filter(league == "Premier League" | league == "Serie A" | league == "Bundesliga" | league == "La Liga" | league == "Ligue 1") %>% arrange(desc(league)) %>% filter(new_club != "Pescara") %>% merge(incoming_transfers, by="new_club") %>% merge(outgoing_transfers, by.x = "new_club", by.y = "club") %>% View() %>% write.csv("data.csv")
 
 group_by(net_spend_per_club_top_five_leagues, league) %>% summarise(count = n())
+You can also embed plots, for example:
 
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
 
-
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
