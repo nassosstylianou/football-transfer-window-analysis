@@ -39,7 +39,22 @@ function barChart(selectedTeam) {
   $.getJSON('data/player_transfers.json', function(data) { 
     $.each(data, function(key, value) { 
           if (value.club == selectedTeam) {
-         console.log(value)
+            
+            /* When I do just this, I get the name of only the first player. 
+
+            $("#playerNames").html(value.player_name);
+            
+            But if I actually call value. player_name, I get all the player names from the selected team back into the console */
+            console.log(value.player_name);
+
+            /* If I comment the first bit out and go just with the code below so instead if I actually try to iterate through the player names, I find I am iterating through each letter in the name (but it does access all names, even if one letter at a time). I assume that the length is the length of all letters together, but still a little weird. */ 
+            var playerName = ''; 
+            for(i=0; i < value.player_name.length; i++){ 
+            playerName += value.player_name[i] + "<br>"; 
+            } 
+            $('#playerNames').append(playerName);
+
+            
           }
       }); 
   });
