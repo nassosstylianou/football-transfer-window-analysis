@@ -71,10 +71,4 @@ all_clubs <- rbind(new_clubs, old_clubs) %>% subset(!duplicated(club))
 net_spend_per_club_top_five_leagues <- merge(net_spend_per_club, all_clubs, by.x = "new_club", by.y = "club") %>% filter(league == "Premier League" | league == "Serie A" | league == "Bundesliga" | league == "La Liga" | league == "Ligue 1") %>% arrange(desc(league)) %>% filter(new_club != "Pescara") %>% merge(incoming_transfers, by="new_club") %>% merge(outgoing_transfers, by.x = "new_club", by.y = "club") %>% View() %>% write.csv("data.csv")
 
 group_by(net_spend_per_club_top_five_leagues, league) %>% summarise(count = n())
-You can also embed plots, for example:
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
