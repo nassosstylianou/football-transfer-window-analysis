@@ -40,19 +40,25 @@ function barChart(selectedTeam) {
     $.each(data, function(key, value) { 
           if (value.club == selectedTeam) {
             
-            /* When I do just this, I get the name of only the first player. 
+            /* When I do just this, I get the name of only the first player. */
 
-            $("#playerNames").html(value.player_name);
+            $("#playerNames").append("<div class="+"playerName"+">" + value.player_name + "</div>");
+
+            var drawBars = "<div class="+"bars"+ " style="+"width:" +  value.price_pounds/100000 + "px;" + ">" + value.price_pounds + "<div>";
+
+
+
+            $("#bars").append(drawBars);
             
-            But if I actually call value. player_name, I get all the player names from the selected team back into the console */
+            /*But if I actually call value. player_name, I get all the player names from the selected team back into the console */
             console.log(value.player_name);
 
-            /* If I comment the first bit out and go just with the code below so instead if I actually try to iterate through the player names, I find I am iterating through each letter in the name (but it does access all names, even if one letter at a time). I assume that the length is the length of all letters together, but still a little weird. */ 
+            /* If I comment the first bit out and go just with the code below so instead if I actually try to iterate through the player names, I find I am iterating through each letter in the name (but it does access all names, even if one letter at a time). I assume that the length is the length of all letters together, but still a little weird. 
             var playerName = ''; 
             for(i=0; i < value.player_name.length; i++){ 
             playerName += value.player_name[i] + "<br>"; 
             } 
-            $('#playerNames').append(playerName);
+            $('#playerNames').append(playerName);*/ 
 
             
           }
